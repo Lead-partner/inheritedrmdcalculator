@@ -1,0 +1,8 @@
+{
+  "name": "inherited-rmd-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"test": "node --test", "build": "node scripts/build.mjs", "sync-tables": "node scripts/sync-tables.mjs"},
+  "license": "MIT"
+}
