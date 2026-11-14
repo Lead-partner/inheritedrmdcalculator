@@ -78,5 +78,21 @@
     "checked": "2026-11-14",
     "status": "fetched",
     "error": ""
+  },
+  {
+    "file": "p575.txt",
+    "name": "IRS Publication 575 (2025)",
+    "url": "https://www.irs.gov/publications/p575",
+    "checked": "2026-11-14",
+    "status": "fetched",
+    "error": ""
+  },
+  {
+    "file": "plan-comparison.txt",
+    "name": "IRS RMD comparison chart: IRAs vs. defined contribution plans",
+    "url": "https://www.irs.gov/retirement-plans/rmd-comparison-chart-iras-vs-defined-contribution-plans",
+    "checked": "2026-11-14",
+    "status": "fetched",
+    "error": ""
   }
 ]

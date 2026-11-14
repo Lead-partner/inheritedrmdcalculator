@@ -62,6 +62,6 @@ export async function launchChrome() {
     };
   }
   return {page,
-    async close(){try{await send('Browser.close');}catch{}ws.close();if(child.exitCode===null){await Promise.race([new Promise(ok=>child.once('exit',ok)),pause(3000)]);if(child.exitCode===null)child.kill('SIGKILL');}await rm(profile,{recursive:true,force:true});}
+    async close(){try{await send('Browser.close');}catch{}ws.close();if(child.exitCode===null){await Promise.race([new Promise(ok=>child.once('exit',ok)),pause(3000)]);if(child.exitCode===null)child.kill('SIGKILL');}await rm(profile,{recursive:true,force:true,maxRetries:5,retryDelay:100});}
   };
 }

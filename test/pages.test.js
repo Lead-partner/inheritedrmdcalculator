@@ -11,7 +11,7 @@ const schema=html=>Array.from(html.matchAll(/<script type="application\/ld\+json
 test('every sitemap URL has built HTML, a checked date and real shared navigation',async()=>{
  const sitemap=await read('sitemap.xml');
  const urls=Array.from(sitemap.matchAll(/<url><loc>(.*?)<\/loc><lastmod>(.*?)<\/lastmod><\/url>/g));
- assert.equal(urls.length,8);
+ assert.equal(urls.length,6+guides.length);
  for(const [,url,lastmod] of urls) {
   const pathname=new URL(url).pathname,html=await read(pathname.slice(1)+'index.html');
   assert.equal(lastmod,'2026-11-14');
@@ -34,7 +34,9 @@ for(const g of guides)test(`${g.slug}: article SEO, sources, prefill state and r
  const html=await read(`guides/${g.slug}/index.html`),title=html.match(/<title>(.*?)<\/title>/)[1],description=html.match(/<meta name="description" content="(.*?)">/)[1];
  assert.equal((html.match(/<h1>/g)||[]).length,1);
  assert.ok(title.length<=60,`${title.length} characters`);assert.ok(description.length<=155);
- assert.match(title,/inherited IRA/i);assert.doesNotMatch(title,/calculator/i);
+ assert.equal(title,g.title);assert.equal(new Set(guides.map(x=>x.title)).size,guides.length);assert.doesNotMatch(title,/calculator/i);
+ const keyword={'inherited-ira-rules':'inherited IRA rules','what-is-an-inherited-ira':'what is an inherited IRA','inherited-roth-ira-rules':'inherited Roth IRA distribution rules','single-life-expectancy-table':'single life expectancy table','inherited-ira-10-year-rule':'inherited IRA 10-year rule','inherited-401k-rules':'inherited 401k rules'}[g.slug];
+ assert.ok(title.toLowerCase().includes(keyword.toLowerCase()));
  assert.doesNotMatch(html,/<script(?! type="application\/ld\+json")/);
  assert.match(html,/<meta property="og:type" content="article">/);
  assert.match(html,/<meta property="og:image" content="https:\/\/inheritedrmdcalculator.com\/og.png">/);
@@ -87,4 +89,62 @@ test('iframe remains noindex with its original tool and without site navigation'
  assert.doesNotMatch(html,/<header|class="menu"|article-sources/);
  const config=JSON.parse(await readFile('vercel.json','utf8'));
  assert.ok(config.headers.find(x=>x.source==='/embed(/.*)?').headers.some(x=>x.value.includes('frame-ancestors *')));
+});
+
+
+test('all 121 Table I rows match freshly saved Pub 590-B, repository data and accessible HTML',async()=>{
+ const source=await readFile('sources-ref/p590b.txt','utf8');
+ const start=source.indexOf('Appendix B. Life Expectancy Tables\nTable I\n');
+ assert.ok(start>=0,'Appendix B Table I heading');
+ const end=source.indexOf('Table II\n(Joint and Last Survivor Life Expectancy)',start);
+ assert.ok(end>start,'Table II boundary');
+ const sourceRows=Object.fromEntries(Array.from(source.slice(start,end).matchAll(/^(\d+)(\+)?\n(\d+\.\d+)$/gm),m=>[m[1],Number(m[3])]));
+ const data=JSON.parse(await readFile('data/irs-tables.json','utf8')).rmd_single_life;
+ assert.equal(Object.keys(sourceRows).length,121);
+ assert.deepEqual(Object.keys(sourceRows),Array.from({length:121},(_,i)=>String(i)));
+ assert.deepEqual(data,sourceRows);
+ const html=await read('guides/single-life-expectancy-table/index.html');
+ const table=html.match(/<table class="guide-table" id="single-life-table">([\s\S]*?)<\/table>/)[1];
+ assert.match(table,/<caption>IRS Publication 590-B, Appendix B, Table I/);
+ assert.equal((table.match(/<th scope="col">/g)||[]).length,2);
+ const renderedRows=Array.from(table.matchAll(/<tr><th scope="row">(\d+\+?)<\/th><td>(\d+\.\d)<\/td><\/tr>/g));
+ assert.equal(renderedRows.length,121);
+ for(const [index,[,age,divisor]] of renderedRows.entries()){
+  assert.equal(age,index===120?'120+':String(index));
+  assert.equal(divisor,sourceRows[index].toFixed(1),`age ${age}`);
+ }
+ assert.ok(html.includes(`$100,000 (example)</strong>`));
+ assert.ok(html.includes(`$100,000 ÷ ${data[57].toFixed(1)} = approximately $${(100000/data[57]).toFixed(2)}`));
+ assert.ok(source.includes('New life expectancy tables apply to distribution calendar years beginning on or after January 1, 2022.'));
+});
+
+test('10-year deadline rows count the calendar year after death as year one',async()=>{
+ const html=await read('guides/inherited-ira-10-year-rule/index.html');
+ const rows=Array.from(html.matchAll(/<tr><th scope="row">(202[0-6])<\/th><td>December 31, (\d{4})<\/td><\/tr>/g));
+ assert.equal(rows.length,7);
+ for(const [,death,deadline] of rows)assert.equal(Number(deadline),Number(death)+10);
+ assert.match(html,/calendar year after death is year one/);
+});
+
+test('new guide prefills and contextual hub links stay aligned with the account type',async()=>{
+ const expected={
+  'inherited-roth-ira-rules':['r=parent&t=roth','r=spouse&t=roth'],
+  'single-life-expectancy-table':['r=other&t=ira'],
+  'inherited-ira-10-year-rule':['r=parent&t=ira'],
+  'inherited-401k-rules':['t=plan&r=parent']
+ };
+ for(const [slug,queries] of Object.entries(expected)){
+  const html=decode(await read(`guides/${slug}/index.html`));
+  for(const query of queries)assert.ok(html.includes(`href="/?${query}"`));
+ }
+ for(const hub of ['inherited-ira-rules','what-is-an-inherited-ira']){
+  const html=await read(`guides/${hub}/index.html`);
+  const body=html.slice(html.indexOf('<article>'),html.indexOf('<aside class="related"'));
+  for(const slug of Object.keys(expected))assert.ok(body.includes(`href="/guides/${slug}/"`));
+ }
+ const hub=await read('guides/inherited-ira-rules/index.html');
+ for(const heading of ['Who follows the 10-year rule?','Inherited Roth IRA rules']){
+  const section=hub.slice(hub.indexOf(`<section><h2>${heading}</h2>`)).split('</section>')[0];
+  assert.equal((section.match(/<p/g)||[]).length,2,'brief hub section');
+ }
 });
