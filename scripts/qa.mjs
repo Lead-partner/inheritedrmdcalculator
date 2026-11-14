@@ -9,7 +9,7 @@ await mkdir(screenshots,{recursive:true});await mkdir('qa-shots',{recursive:true
 const server=await startServer(),browser=await launchChrome(),report=[];
 const paths=['/','/guides/',...guides.map(g=>`/guides/${g.slug}/`),'/how-we-calculate/','/embed-code/','/about/','/contact/','/embed/','/404.html'];
 try {
- for(const path of paths)for(const width of [320,390,768,1280]) {
+ for(const path of paths)for(const width of [320,390,768,1280,1440]) {
   const page=await browser.page(width,width<800?844:900);
   try {
    await page.navigate(server.url+path,path==='/');
@@ -18,16 +18,15 @@ try {
    assert.equal(metrics.h1s,1);assert.equal(metrics.menuVisible,path!='/embed/'&&width<600);assert.equal(metrics.navVisible,path!='/embed/'&&width>=600);
    if(width===390||width===1280) {
     const slug=path==='/'?'home':path.split('/').filter(Boolean).at(-1);
-    await page.screenshot(`${screenshots}/rmd-b4-${slug}-${width}.png`);
-    if(path==='/')await page.screenshot(`${screenshots}/rmd-hero-after-${width}.png`);
-    if(['inherited-ira-10-year-rule','single-life-expectancy-table'].includes(slug))await page.screenshot(`${screenshots}/rmd-b4-${slug}-${width}-full.png`,true);
+    await page.screenshot(`${screenshots}/rmd-b5-${slug}-${width}.png`);
+    if(['home','inherited-ira-10-year-rule','single-life-expectancy-table'].includes(slug))await page.screenshot(`${screenshots}/rmd-b5-${slug}-${width}-full.png`,true);
    }
    if(width<600&&path!='/embed/') {
     await page.evaluate("document.querySelector('.menu summary').click()");
     const links=await page.evaluate(`Array.from(document.querySelectorAll('.menu nav a')).map(e=>({href:e.getAttribute('href'),visible:e.checkVisibility(),height:e.getBoundingClientRect().height,width:e.getBoundingClientRect().width}))`);
     assert.equal(links.length,3);
     for(const link of links){assert.ok(link.visible);assert.ok(link.height>=44&&link.width>=44);}
-    if(width===390&&path==='/')await page.screenshot(`${screenshots}/rmd-b4-menu-390.png`);
+    if(width===390&&path==='/')await page.screenshot(`${screenshots}/rmd-b5-menu-390.png`);
     assert.ok(await page.evaluate('document.documentElement.scrollWidth<=innerWidth'));
    }
    assert.ok(await page.evaluate(`Array.from(document.images).every(img=>img.complete&&img.naturalWidth>0)`),'broken image');
@@ -68,7 +67,7 @@ try {
  await page.evaluate("document.querySelector('[data-action=skip]').click()");
  await page.until("document.querySelector('#tool').classList.contains('complete')");
  assert.equal(await page.evaluate("document.querySelector('#result-title').textContent"),'10-year rule');
- await page.screenshot(`${screenshots}/rmd-b4-result-390.png`,true);
+ await page.screenshot(`${screenshots}/rmd-b5-result-390.png`,true);
  await page.evaluate("document.querySelector('#result .chip[data-edit=r]').click()");
  await page.until("document.querySelector('#question-title')?.textContent==='Who left you the account?'");
  // Verify the human embed page's copy-snippet button.
@@ -80,8 +79,8 @@ try {
  for(const width of [390,1280]) {
   const result=await browser.page(width);
   await result.navigate(server.url+'/?r=parent&t=ira&ob=1944&od=2023&b=1971&bal=skip');
-  await result.screenshot(`${screenshots}/rmd-b4-result-${width}.png`,true);await result.close();
+  await result.screenshot(`${screenshots}/rmd-b5-result-${width}.png`,true);await result.close();
  }
- await writeFile('qa-shots/rmd-b4-report.json',JSON.stringify({pages:report,menuLinks:'all three followed at 390px',prefills:'all six guide CTAs plus Roth spouse option passed',guideFlow:'article → prefill → completed result → edit',copySnippet:'passed'},null,2)+'\n');
- console.log(`Passed ${report.length} page/width checks, menu links, article-to-result editing and snippet copy. Screenshots: ${screenshots}/rmd-b4-*.png`);
+ await writeFile('qa-shots/rmd-b5-report.json',JSON.stringify({pages:report,menuLinks:'all three followed at 390px',prefills:'all six guide CTAs plus Roth spouse option passed',guideFlow:'article → prefill → completed result → edit',copySnippet:'passed'},null,2)+'\n');
+ console.log(`Passed ${report.length} page/width checks, menu links, article-to-result editing and snippet copy. Screenshots: ${screenshots}/rmd-b5-*.png`);
 } finally {await browser.close();await server.close();}

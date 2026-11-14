@@ -3,7 +3,7 @@ import {guides,references} from './guides.mjs';
 const cite=(...ids)=>`<span class="citation">${ids.map(id=>`<a href="${references[id].url}">${({pub:'Pub. 590-B',regs:'Final regulations',beneficiary:'IRS beneficiary guidance',n22:'Notice 2022-53',n23:'Notice 2023-54',n24:'Notice 2024-35',penalty:'Form 5329 instructions'})[id]||references[id].name}</a>`).join('; ')}.</span>`;
 const fact=(id,copy,...ids)=>`<p data-evidence="${id}">${copy} ${cite(...ids)}</p>`;
 export function homeContent(faq,sourceList,disclaimer){return `<article class="home-content" aria-label="Understanding inherited IRA required minimum distributions">
-<section id="inherited-rmd"><span class="ov">Understand your result</span><h2>What is an inherited IRA RMD?</h2>
+<section id="inherited-rmd"><h2>What is an inherited IRA RMD?</h2>
 ${fact('definition','An inherited IRA RMD is a required minimum distribution: money a beneficiary must withdraw after an IRA owner dies. An inherited IRA is also called a beneficiary IRA. The withdrawal rule depends on who inherited the account, whether it is traditional or Roth, and when the owner died.','pub','beneficiary')}
 ${fact('annual','The annual minimum and the deadline to empty an account are separate requirements. A beneficiary may need yearly withdrawals and still have to distribute everything by year ten. Others have no annual minimum before the final year. Identify the rule before applying a life-expectancy divisor.','pub','regs')}
 <p>This inherited IRA RMD calculator brings those questions together. Start above to find the rule, this year’s minimum and the deadline for the circumstances you enter. </p></section>

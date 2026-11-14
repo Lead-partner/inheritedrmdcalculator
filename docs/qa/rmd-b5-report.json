@@ -1,0 +1,806 @@
+{
+  "checked": "2026-11-14T09:41:19.731Z",
+  "project": "Lead-partner/inheritedrmdcalculator",
+  "status": "passed",
+  "scope": "All 14 local routes, including functional /embed/. No push or deployment.",
+  "layout": {
+    "container": ".wrap",
+    "readingColumn": ".home-content, .prose-body; left aligned",
+    "sharedGrid": ".tool, .content, .ft; --question-column / --column-gap",
+    "at1280": {
+      "container": [
+        64,
+        1216
+      ],
+      "questionColumn": [
+        64,
+        484
+      ],
+      "resultColumn": [
+        524,
+        1216
+      ],
+      "readingColumn": [
+        64,
+        924
+      ]
+    }
+  },
+  "removed": {
+    "dividers": [
+      ".hd",
+      ".ft",
+      ".home-content",
+      ".qs-hd",
+      ".flow-foot",
+      ".heroes",
+      ".due",
+      ".edit",
+      ".schedule",
+      "details",
+      ".option",
+      ".how li",
+      ".faq",
+      ".guide-list li",
+      ".article-sources",
+      ".related",
+      ".preview-facts > div",
+      ".teaching-figure figcaption"
+    ],
+    "decorativeBorders": [
+      ".example-preview accent top edge",
+      ".disc accent left edge",
+      ".notice accent left edge",
+      ".key",
+      ".amt span",
+      ".teaching-figure img"
+    ],
+    "eyebrows": [
+      ".hero-eyebrow (A clearer next step)",
+      ".home-content > section > .ov (Understand your result)",
+      ".result > .ov (unsupported result label)"
+    ]
+  },
+  "preserved": [
+    "Self-hosted fonts and palette",
+    "Calculator rule/state/calendar logic",
+    "Article content, citations, metadata, structured data and sitemap",
+    "Functional control, card, figure, table and calculator borders",
+    "Answer labels, IRS example label and result year"
+  ],
+  "lineAudit": {
+    "routes": 14,
+    "checks": 221,
+    "borders": 9138,
+    "findings": 0,
+    "browserErrors": 0,
+    "responsiveWidths": 3363,
+    "responsiveFindings": 0,
+    "minTextClearancePx": 9.16,
+    "report": "docs/qa/lines-audit.json",
+    "command": "npm run qa:lines",
+    "nativeValueChecks": "Native input and textarea values use their padded content boxes and vertically centred input line boxes; DOM text uses Range rectangles."
+  },
+  "tests": {
+    "command": "npm test",
+    "passed": 44,
+    "failed": 0
+  },
+  "build": {
+    "command": "npm run build",
+    "passed": true,
+    "jsGzipKB": 12.03,
+    "limitKB": 20
+  },
+  "browserQA": {
+    "pages": [
+      {
+        "path": "/",
+        "width": 320,
+        "scrollWidth": 320,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/",
+        "width": 390,
+        "scrollWidth": 390,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/",
+        "width": 768,
+        "scrollWidth": 768,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/",
+        "width": 1280,
+        "scrollWidth": 1280,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/",
+        "width": 320,
+        "scrollWidth": 320,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/guides/",
+        "width": 390,
+        "scrollWidth": 390,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/guides/",
+        "width": 768,
+        "scrollWidth": 768,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/",
+        "width": 1280,
+        "scrollWidth": 1280,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-ira-rules/",
+        "width": 320,
+        "scrollWidth": 320,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-ira-rules/",
+        "width": 390,
+        "scrollWidth": 390,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-ira-rules/",
+        "width": 768,
+        "scrollWidth": 768,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-ira-rules/",
+        "width": 1280,
+        "scrollWidth": 1280,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-ira-rules/",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/what-is-an-inherited-ira/",
+        "width": 320,
+        "scrollWidth": 320,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/guides/what-is-an-inherited-ira/",
+        "width": 390,
+        "scrollWidth": 390,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/guides/what-is-an-inherited-ira/",
+        "width": 768,
+        "scrollWidth": 768,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/what-is-an-inherited-ira/",
+        "width": 1280,
+        "scrollWidth": 1280,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/what-is-an-inherited-ira/",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-roth-ira-rules/",
+        "width": 320,
+        "scrollWidth": 320,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-roth-ira-rules/",
+        "width": 390,
+        "scrollWidth": 390,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-roth-ira-rules/",
+        "width": 768,
+        "scrollWidth": 768,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-roth-ira-rules/",
+        "width": 1280,
+        "scrollWidth": 1280,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-roth-ira-rules/",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/single-life-expectancy-table/",
+        "width": 320,
+        "scrollWidth": 320,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/guides/single-life-expectancy-table/",
+        "width": 390,
+        "scrollWidth": 390,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/guides/single-life-expectancy-table/",
+        "width": 768,
+        "scrollWidth": 768,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/single-life-expectancy-table/",
+        "width": 1280,
+        "scrollWidth": 1280,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/single-life-expectancy-table/",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-ira-10-year-rule/",
+        "width": 320,
+        "scrollWidth": 320,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-ira-10-year-rule/",
+        "width": 390,
+        "scrollWidth": 390,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-ira-10-year-rule/",
+        "width": 768,
+        "scrollWidth": 768,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-ira-10-year-rule/",
+        "width": 1280,
+        "scrollWidth": 1280,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-ira-10-year-rule/",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-401k-rules/",
+        "width": 320,
+        "scrollWidth": 320,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-401k-rules/",
+        "width": 390,
+        "scrollWidth": 390,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-401k-rules/",
+        "width": 768,
+        "scrollWidth": 768,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-401k-rules/",
+        "width": 1280,
+        "scrollWidth": 1280,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/guides/inherited-401k-rules/",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/how-we-calculate/",
+        "width": 320,
+        "scrollWidth": 320,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/how-we-calculate/",
+        "width": 390,
+        "scrollWidth": 390,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/how-we-calculate/",
+        "width": 768,
+        "scrollWidth": 768,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/how-we-calculate/",
+        "width": 1280,
+        "scrollWidth": 1280,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/how-we-calculate/",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/embed-code/",
+        "width": 320,
+        "scrollWidth": 320,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/embed-code/",
+        "width": 390,
+        "scrollWidth": 390,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/embed-code/",
+        "width": 768,
+        "scrollWidth": 768,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/embed-code/",
+        "width": 1280,
+        "scrollWidth": 1280,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/embed-code/",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/about/",
+        "width": 320,
+        "scrollWidth": 320,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/about/",
+        "width": 390,
+        "scrollWidth": 390,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/about/",
+        "width": 768,
+        "scrollWidth": 768,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/about/",
+        "width": 1280,
+        "scrollWidth": 1280,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/about/",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/contact/",
+        "width": 320,
+        "scrollWidth": 320,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/contact/",
+        "width": 390,
+        "scrollWidth": 390,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/contact/",
+        "width": 768,
+        "scrollWidth": 768,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/contact/",
+        "width": 1280,
+        "scrollWidth": 1280,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/contact/",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/embed/",
+        "width": 320,
+        "scrollWidth": 320,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/embed/",
+        "width": 390,
+        "scrollWidth": 390,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/embed/",
+        "width": 768,
+        "scrollWidth": 768,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/embed/",
+        "width": 1280,
+        "scrollWidth": 1280,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/embed/",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/404.html",
+        "width": 320,
+        "scrollWidth": 320,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/404.html",
+        "width": 390,
+        "scrollWidth": 390,
+        "h1s": 1,
+        "navVisible": false,
+        "menuVisible": true,
+        "errors": []
+      },
+      {
+        "path": "/404.html",
+        "width": 768,
+        "scrollWidth": 768,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/404.html",
+        "width": 1280,
+        "scrollWidth": 1280,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      },
+      {
+        "path": "/404.html",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "h1s": 1,
+        "navVisible": true,
+        "menuVisible": false,
+        "errors": []
+      }
+    ],
+    "menuLinks": "all three followed at 390px",
+    "prefills": "all six guide CTAs plus Roth spouse option passed",
+    "guideFlow": "article → prefill → completed result → edit",
+    "copySnippet": "passed",
+    "command": "npm run qa",
+    "checkCount": 70
+  },
+  "svgTextBounds": {
+    "command": "npm run qa:figures",
+    "findings": 0
+  },
+  "lighthouse": {
+    "/": {
+      "version": "12.8.2",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "warnings": [],
+      "command": "CHROME_PATH=/usr/bin/google-chrome npx -y lighthouse@12 http://127.0.0.1:4175/ --form-factor=mobile --chrome-flags=\"--headless=new --no-sandbox\" --output=json --output=html --output-path=qa-shots/rmd-b5-lighthouse-home --quiet"
+    },
+    "/guides/single-life-expectancy-table/": {
+      "version": "12.8.2",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "warnings": [],
+      "command": "CHROME_PATH=/usr/bin/google-chrome npx -y lighthouse@12 http://127.0.0.1:4175/guides/single-life-expectancy-table/ --form-factor=mobile --chrome-flags=\"--headless=new --no-sandbox\" --output=json --output=html --output-path=qa-shots/rmd-b5-lighthouse-single-life --quiet"
+    }
+  },
+  "screenshots": {
+    "directory": "/workspace/gold-ira/free-apps/qa",
+    "pattern": "rmd-b5-<page>-<390|1280>.png",
+    "files": [
+      "rmd-b5-404.html-1280.png",
+      "rmd-b5-404.html-390.png",
+      "rmd-b5-about-1280.png",
+      "rmd-b5-about-390.png",
+      "rmd-b5-contact-1280.png",
+      "rmd-b5-contact-390.png",
+      "rmd-b5-embed-1280.png",
+      "rmd-b5-embed-390.png",
+      "rmd-b5-embed-code-1280.png",
+      "rmd-b5-embed-code-390.png",
+      "rmd-b5-guides-1280.png",
+      "rmd-b5-guides-390.png",
+      "rmd-b5-home-1280-full.png",
+      "rmd-b5-home-1280.png",
+      "rmd-b5-home-390-full.png",
+      "rmd-b5-home-390.png",
+      "rmd-b5-how-we-calculate-1280.png",
+      "rmd-b5-how-we-calculate-390.png",
+      "rmd-b5-inherited-401k-rules-1280.png",
+      "rmd-b5-inherited-401k-rules-390.png",
+      "rmd-b5-inherited-ira-10-year-rule-1280-full.png",
+      "rmd-b5-inherited-ira-10-year-rule-1280.png",
+      "rmd-b5-inherited-ira-10-year-rule-390-full.png",
+      "rmd-b5-inherited-ira-10-year-rule-390.png",
+      "rmd-b5-inherited-ira-rules-1280.png",
+      "rmd-b5-inherited-ira-rules-390.png",
+      "rmd-b5-inherited-roth-ira-rules-1280.png",
+      "rmd-b5-inherited-roth-ira-rules-390.png",
+      "rmd-b5-menu-390.png",
+      "rmd-b5-result-1280.png",
+      "rmd-b5-result-390.png",
+      "rmd-b5-single-life-expectancy-table-1280-full.png",
+      "rmd-b5-single-life-expectancy-table-1280.png",
+      "rmd-b5-single-life-expectancy-table-390-full.png",
+      "rmd-b5-single-life-expectancy-table-390.png",
+      "rmd-b5-what-is-an-inherited-ira-1280.png",
+      "rmd-b5-what-is-an-inherited-ira-390.png"
+    ]
+  }
+}

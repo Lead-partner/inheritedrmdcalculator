@@ -10,6 +10,7 @@
     "qa": "node scripts/qa.mjs",
     "sync-tables": "node scripts/sync-tables.mjs",
     "images": "node scripts/generate-images.mjs",
+    "qa:lines": "node scripts/lines-audit.mjs",
     "qa:figures": "node scripts/check-figure-layout.mjs"
   },
   "license": "MIT"
