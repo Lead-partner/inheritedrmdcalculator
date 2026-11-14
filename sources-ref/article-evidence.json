@@ -1,0 +1,266 @@
+{
+  "checked": "2026-11-14",
+  "note": "Evidence IDs match data-evidence attributes in generated guides. Quotes normalize whitespace only. See checked-2026-11-14.json for saved source names, URLs, fetch statuses and dates.",
+  "claims": {
+    "rules-intro": [
+      {
+        "file": "p590b.txt",
+        "quote": "The 10-year rule requires the IRA beneficiaries who are not taking life expectancy payments to withdraw the entire balance of the IRA by December 31 of the year containing the 10th anniversary of the owner’s death. For example, if the owner died in 2025, the beneficiary would have to fully distribute the IRA by December 31, 2035. The 10-year rule applies if (1) the beneficiary is an eligible designated beneficiary who elects the 10-year rule, if the owner died before reaching their required beginning date; or (2) the beneficiary is a designated beneficiary who is not an eligible designated beneficiary, regardless of whether the owner died before reaching their required beginning date."
+      },
+      {
+        "file": "fr.txt",
+        "quote": "(e) Eligible designated beneficiaries--(1) In general. A designated beneficiary of the employee is an eligible designated beneficiary if, at the time of the employee's death, the designated beneficiary is-- (i) The surviving spouse of the employee; (ii) A child of the employee (within the meaning of section 152(f)(1)) who has not reached the age of majority within the meaning of paragraph (e)(3) of this section; (iii) Disabled within the meaning of paragraph (e)(4) of this section; (iv) Chronically ill within the meaning of paragraph (e)(5) of this section; (v) Not more than 10 years younger than the employee as determined under paragraph (e)(6) of this section; or (vi) A designated beneficiary"
+      },
+      {
+        "file": "p590b.txt",
+        "quote": "If you inherit a traditional IRA from your spouse, you generally have the following two choices. Treat it as your own IRA by designating yourself as the account owner; or Treat it as your own by rolling it over into your IRA, or to the extent it is taxable, into a: Qualified employer plan, Qualified employee annuity plan (section 403(a) plan), Tax-sheltered annuity plan (section 403(b) plan), Deferred compensation plan of a state or local government (section 457 plan), or Treat yourself as the beneficiary rather than treating the IRA as your own. Treating it as your own. You will be considered to have chosen to treat the IRA as your own if: Contributions (including rollover contributions) are made to the inherited IRA, or You don't take the required minimum distribution for a year as a beneficiary of the IRA. You will only be considered to have chosen to treat the IRA as your own if: You are the sole beneficiary of the IRA, and You have an unlimited right to withdraw amounts from it. However, if you receive a distribution from your deceased spouse's IRA, you can roll that distribution over into your own IRA within the 60-day time limit, as long as the distribution isn't a required distribution, even if you aren't the sole beneficiary of your deceased spouse's IRA."
+      },
+      {
+        "file": "p590b.txt",
+        "quote": "If the owner died before their required beginning date (defined earlier) and you are an eligible designated beneficiary (such as and including a surviving spouse who is a sole survivor), you must generally figure your required minimum distributions for the year after the year of the owner's death using your single life expectancy shown in Table I"
+      },
+      {
+        "file": "p590b.txt",
+        "quote": "There are new required minimum distribution rules for certain beneficiaries who are designated beneficiaries when the IRA owner dies in a tax year beginning after December 31, 2019. All distributions must be made by the end of the 10th year after death, except for distributions made to certain eligible designated beneficiaries."
+      }
+    ],
+    "ten-year": [
+      {
+        "file": "p590b.txt",
+        "quote": "The 10-year rule requires the IRA beneficiaries who are not taking life expectancy payments to withdraw the entire balance of the IRA by December 31 of the year containing the 10th anniversary of the owner’s death. For example, if the owner died in 2025, the beneficiary would have to fully distribute the IRA by December 31, 2035. The 10-year rule applies if (1) the beneficiary is an eligible designated beneficiary who elects the 10-year rule, if the owner died before reaching their required beginning date; or (2) the beneficiary is a designated beneficiary who is not an eligible designated beneficiary, regardless of whether the owner died before reaching their required beginning date."
+      }
+    ],
+    "edb": [
+      {
+        "file": "fr.txt",
+        "quote": "(e) Eligible designated beneficiaries--(1) In general. A designated beneficiary of the employee is an eligible designated beneficiary if, at the time of the employee's death, the designated beneficiary is-- (i) The surviving spouse of the employee; (ii) A child of the employee (within the meaning of section 152(f)(1)) who has not reached the age of majority within the meaning of paragraph (e)(3) of this section; (iii) Disabled within the meaning of paragraph (e)(4) of this section; (iv) Chronically ill within the meaning of paragraph (e)(5) of this section; (v) Not more than 10 years younger than the employee as determined under paragraph (e)(6) of this section; or (vi) A designated beneficiary"
+      },
+      {
+        "file": "fr.txt",
+        "quote": "(3) Determination of age of majority. An individual reaches the age of majority on the individual's 21st birthday."
+      }
+    ],
+    "minor": [
+      {
+        "file": "fr.txt",
+        "quote": "(e) Eligible designated beneficiaries--(1) In general. A designated beneficiary of the employee is an eligible designated beneficiary if, at the time of the employee's death, the designated beneficiary is-- (i) The surviving spouse of the employee; (ii) A child of the employee (within the meaning of section 152(f)(1)) who has not reached the age of majority within the meaning of paragraph (e)(3) of this section; (iii) Disabled within the meaning of paragraph (e)(4) of this section; (iv) Chronically ill within the meaning of paragraph (e)(5) of this section; (v) Not more than 10 years younger than the employee as determined under paragraph (e)(6) of this section; or (vi) A designated beneficiary"
+      },
+      {
+        "file": "fr.txt",
+        "quote": "(3) Determination of age of majority. An individual reaches the age of majority on the individual's 21st birthday."
+      },
+      {
+        "file": "p590b.txt",
+        "quote": "For a beneficiary receiving life expectancy payments who is either an eligible designated beneficiary or a minor child, the 10-year rule also applies to the remaining amounts in the IRA upon the death of the eligible designated beneficiary or upon the minor child beneficiary reaching the age of majority. In either of those cases, the 10-year period ends on December 31 of the year containing the 10th anniversary of the eligible designated beneficiary's death or the child's attainment of majority."
+      },
+      {
+        "file": "fr.txt",
+        "quote": "The proposed regulations provided a similar requirement to continue annual distributions for 10 years if an eligible designated beneficiary who was taking life expectancy payments dies or if an eligible designated beneficiary who is a minor child of the employee and who was taking life expectancy payments reaches the age of majority. Commenters raised similar concerns regarding this requirement. For the reasons described in the preceding paragraph, these regulations retain this requirement for continued annual distributions for up to 10 years after: (1) the death of an eligible designated beneficiary who was taking life expectancy payments; or (2) the attainment of the age of majority (in the case of an eligible designated beneficiary who was a minor child of the employee taking life expectancy payments)."
+      }
+    ],
+    "spouse": [
+      {
+        "file": "p590b.txt",
+        "quote": "If you inherit a traditional IRA from your spouse, you generally have the following two choices. Treat it as your own IRA by designating yourself as the account owner; or Treat it as your own by rolling it over into your IRA, or to the extent it is taxable, into a: Qualified employer plan, Qualified employee annuity plan (section 403(a) plan), Tax-sheltered annuity plan (section 403(b) plan), Deferred compensation plan of a state or local government (section 457 plan), or Treat yourself as the beneficiary rather than treating the IRA as your own. Treating it as your own. You will be considered to have chosen to treat the IRA as your own if: Contributions (including rollover contributions) are made to the inherited IRA, or You don't take the required minimum distribution for a year as a beneficiary of the IRA. You will only be considered to have chosen to treat the IRA as your own if: You are the sole beneficiary of the IRA, and You have an unlimited right to withdraw amounts from it. However, if you receive a distribution from your deceased spouse's IRA, you can roll that distribution over into your own IRA within the 60-day time limit, as long as the distribution isn't a required distribution, even if you aren't the sole beneficiary of your deceased spouse's IRA."
+      }
+    ],
+    "roth-rule": [
+      {
+        "file": "p590b.txt",
+        "quote": "If a Roth IRA owner dies, the minimum distribution rules that apply to traditional IRAs apply to Roth IRAs as though the Roth IRA owner died before their required beginning date."
+      },
+      {
+        "file": "p590b.txt",
+        "quote": "If the IRA owner dies before the required beginning date and the 10-year rule applies, no distribution is required for any year before the 10th year."
+      },
+      {
+        "file": "p590b.txt",
+        "quote": "The 10-year rule requires the IRA beneficiaries who are not taking life expectancy payments to withdraw the entire balance of the IRA by December 31 of the year containing the 10th anniversary of the owner’s death. For example, if the owner died in 2025, the beneficiary would have to fully distribute the IRA by December 31, 2035. The 10-year rule applies if (1) the beneficiary is an eligible designated beneficiary who elects the 10-year rule, if the owner died before reaching their required beginning date; or (2) the beneficiary is a designated beneficiary who is not an eligible designated beneficiary, regardless of whether the owner died before reaching their required beginning date."
+      }
+    ],
+    "annual": [
+      {
+        "file": "fr.txt",
+        "quote": "Since it was first added to the Code, section 401(a)(9) has always included the concept of a required beginning date, under which, once required minimum distributions began to either an employee or designated beneficiary, they were required to continue until the employee's entire interest under the plan was fully distributed, and these regulations retain this requirement."
+      },
+      {
+        "file": "p590b.txt",
+        "quote": "If the owner died on or after their required beginning date (defined earlier) and you are a designated beneficiary, base your required minimum distributions for years after the year of the owner’s death on the longer of: Your single life expectancy shown in Table I in Appendix B; or The owner's life expectancy."
+      },
+      {
+        "file": "p590b.txt",
+        "quote": "The 10-year rule requires the IRA beneficiaries who are not taking life expectancy payments to withdraw the entire balance of the IRA by December 31 of the year containing the 10th anniversary of the owner’s death. For example, if the owner died in 2025, the beneficiary would have to fully distribute the IRA by December 31, 2035. The 10-year rule applies if (1) the beneficiary is an eligible designated beneficiary who elects the 10-year rule, if the owner died before reaching their required beginning date; or (2) the beneficiary is a designated beneficiary who is not an eligible designated beneficiary, regardless of whether the owner died before reaching their required beginning date."
+      },
+      {
+        "file": "benef.txt",
+        "quote": "The first date the original account owner was required to begin taking RMDs"
+      }
+    ],
+    "relief": [
+      {
+        "file": "fr.txt",
+        "quote": "While the final regulations do not eliminate the annual distribution requirement in cases in which annual life expectancy payments have begun, the Treasury Department and the IRS issued Notice 2022-53, 2022-45 IRB 437, Notice 2023-54, 2023-31 IRB 382, and Notice 2024-35, 2024-19 IRB 1051, in response to comments requesting transition relief for this requirement. Under those notices, if a distribution would have been required to be made to certain beneficiaries under these regulations had they applied before January 1, 2025, then: (1) a plan will not fail to be qualified for failing to make that distribution in 2021, 2022, 2023, or 2024; and (2) the taxpayer who failed to take the distribution will not be assessed an excise tax for failing to do so.\\11\\ This relief applies with respect to a beneficiary who is a designated beneficiary of an employee who died in 2020, 2021, 2022, or 2023, and after the employee's required beginning date, provided that the beneficiary was not an eligible designated beneficiary who used the lifetime or life expectancy payments exception under section 401(a)(9)(B)(iii). Those notices also provided comparable relief for the case in which an eligible designated beneficiary who was taking annual life expectancy payments died in 2020, 2021, 2022, or 2023, and that beneficiary's successor beneficiary failed to take a distribution in 2021, 2022, 2023, or 2024. --------------------------------------------------------------------------- \\11\\ This relief does not require taxpayers to make up missed required minimum distributions nor does it permit taxpayers to extend the 10-year deadline by which a full distribution is required to be made. For example, if an employee died in 2020, then in 2025, there are six years remaining in the 10-year period without regard to whether the designated beneficiary took distributions in 2021, 2022, 2023, or 2024. In 2030, the designated beneficiary must take a distribution of the remaining account balance."
+      },
+      {
+        "file": "fr.txt",
+        "quote": "Applicability date: Amended Sec. Sec. 1.401(a)(9)-1 through 1.401(a)(9)-9, 1.403(b)-6(e), and 1.408-8 apply for purposes of determining required minimum distributions for calendar years beginning on or after January 1, 2025."
+      }
+    ],
+    "rule-table": [
+      {
+        "file": "p590b.txt",
+        "quote": "The 10-year rule requires the IRA beneficiaries who are not taking life expectancy payments to withdraw the entire balance of the IRA by December 31 of the year containing the 10th anniversary of the owner’s death. For example, if the owner died in 2025, the beneficiary would have to fully distribute the IRA by December 31, 2035. The 10-year rule applies if (1) the beneficiary is an eligible designated beneficiary who elects the 10-year rule, if the owner died before reaching their required beginning date; or (2) the beneficiary is a designated beneficiary who is not an eligible designated beneficiary, regardless of whether the owner died before reaching their required beginning date."
+      },
+      {
+        "file": "fr.txt",
+        "quote": "(e) Eligible designated beneficiaries--(1) In general. A designated beneficiary of the employee is an eligible designated beneficiary if, at the time of the employee's death, the designated beneficiary is-- (i) The surviving spouse of the employee; (ii) A child of the employee (within the meaning of section 152(f)(1)) who has not reached the age of majority within the meaning of paragraph (e)(3) of this section; (iii) Disabled within the meaning of paragraph (e)(4) of this section; (iv) Chronically ill within the meaning of paragraph (e)(5) of this section; (v) Not more than 10 years younger than the employee as determined under paragraph (e)(6) of this section; or (vi) A designated beneficiary"
+      },
+      {
+        "file": "fr.txt",
+        "quote": "(3) Determination of age of majority. An individual reaches the age of majority on the individual's 21st birthday."
+      },
+      {
+        "file": "p590b.txt",
+        "quote": "For a beneficiary receiving life expectancy payments who is either an eligible designated beneficiary or a minor child, the 10-year rule also applies to the remaining amounts in the IRA upon the death of the eligible designated beneficiary or upon the minor child beneficiary reaching the age of majority. In either of those cases, the 10-year period ends on December 31 of the year containing the 10th anniversary of the eligible designated beneficiary's death or the child's attainment of majority."
+      },
+      {
+        "file": "fr.txt",
+        "quote": "The proposed regulations provided a similar requirement to continue annual distributions for 10 years if an eligible designated beneficiary who was taking life expectancy payments dies or if an eligible designated beneficiary who is a minor child of the employee and who was taking life expectancy payments reaches the age of majority. Commenters raised similar concerns regarding this requirement. For the reasons described in the preceding paragraph, these regulations retain this requirement for continued annual distributions for up to 10 years after: (1) the death of an eligible designated beneficiary who was taking life expectancy payments; or (2) the attainment of the age of majority (in the case of an eligible designated beneficiary who was a minor child of the employee taking life expectancy payments)."
+      },
+      {
+        "file": "p590b.txt",
+        "quote": "If the owner died on or after their required beginning date (defined earlier) and you are a designated beneficiary, base your required minimum distributions for years after the year of the owner’s death on the longer of: Your single life expectancy shown in Table I in Appendix B; or The owner's life expectancy."
+      },
+      {
+        "file": "p590b.txt",
+        "quote": "If the IRA owner dies before the required beginning date and the 10-year rule applies, no distribution is required for any year before the 10th year."
+      },
+      {
+        "file": "p590b.txt",
+        "quote": "If you inherit a traditional IRA from your spouse, you generally have the following two choices. Treat it as your own IRA by designating yourself as the account owner; or Treat it as your own by rolling it over into your IRA, or to the extent it is taxable, into a: Qualified employer plan, Qualified employee annuity plan (section 403(a) plan), Tax-sheltered annuity plan (section 403(b) plan), Deferred compensation plan of a state or local government (section 457 plan), or Treat yourself as the beneficiary rather than treating the IRA as your own. Treating it as your own. You will be considered to have chosen to treat the IRA as your own if: Contributions (including rollover contributions) are made to the inherited IRA, or You don't take the required minimum distribution for a year as a beneficiary of the IRA. You will only be considered to have chosen to treat the IRA as your own if: You are the sole beneficiary of the IRA, and You have an unlimited right to withdraw amounts from it. However, if you receive a distribution from your deceased spouse's IRA, you can roll that distribution over into your own IRA within the 60-day time limit, as long as the distribution isn't a required distribution, even if you aren't the sole beneficiary of your deceased spouse's IRA."
+      },
+      {
+        "file": "p590b.txt",
+        "quote": "If the owner died before their required beginning date (defined earlier) and you are an eligible designated beneficiary (such as and including a surviving spouse who is a sole survivor), you must generally figure your required minimum distributions for the year after the year of the owner's death using your single life expectancy shown in Table I"
+      },
+      {
+        "file": "p590b.txt",
+        "quote": "There are new required minimum distribution rules for certain beneficiaries who are designated beneficiaries when the IRA owner dies in a tax year beginning after December 31, 2019. All distributions must be made by the end of the 10th year after death, except for distributions made to certain eligible designated beneficiaries."
+      }
+    ],
+    "penalty": [
+      {
+        "file": "n2024-35.txt",
+        "quote": "Pursuant to § 302 of the SECURE 2.0 Act of 2022, enacted on December 29, 2022, as Division T of the Consolidated Appropriations Act, 2023, Pub. L. 117-328, 136 Stat. 4459 (2022), for taxable years beginning after December 29, 2022, this excise tax is equal to 25 percent of the amount by which the minimum required distribution for a year exceeds the amount actually distributed in that year. If a failure to take a minimum 4 required distribution is corrected by the end of the correction window (generally, the end of the second year that begins after the year of the missed minimum required distribution), the excise tax is reduced from 25 percent to 10 percent."
+      },
+      {
+        "file": "i5329.txt",
+        "quote": "Reduced tax rate. Generally, the additional tax rate for distributions that are less than the minimum required distribution amount (excess accumulations) is 25%. You may be eligible for a reduced tax rate of 10% if, during the correction window, you: Receive a distribution of the amount that resulted in the excess accumulation from the plan for which the tax was imposed; and Submit a return reflecting the additional tax."
+      },
+      {
+        "file": "i5329.txt",
+        "quote": "Waiver of tax for reasonable cause. The IRS can waive part or all of this tax if you can show that any shortfall in the amount of distributions was due to reasonable error and you are taking reasonable steps to remedy the shortfall. If you believe you qualify for this relief, attach a statement of explanation and file Form 5329 as follows."
+      }
+    ],
+    "window": [
+      {
+        "file": "i5329.txt",
+        "quote": "Correction window. The correction window ends on the earliest of the following dates. The date of mailing the deficiency notice with respect to the imposition of this tax; The date the tax is assessed; or The last day of the second taxable year that begins after the end of the taxable year in which the additional tax is imposed."
+      },
+      {
+        "file": "i5329.txt",
+        "quote": "Waiver of tax for reasonable cause. The IRS can waive part or all of this tax if you can show that any shortfall in the amount of distributions was due to reasonable error and you are taking reasonable steps to remedy the shortfall. If you believe you qualify for this relief, attach a statement of explanation and file Form 5329 as follows."
+      }
+    ],
+    "trust": [
+      {
+        "file": "p590b.txt",
+        "quote": "A trust can't be a designated beneficiary even if it is a named beneficiary. However, the beneficiaries of a trust will be treated as having been designated beneficiaries for purposes of determining required minimum distributions after the owner’s death (or, after the death of the owner’s surviving spouse described in Death of surviving spouse prior to date distributions begin , earlier) if all of the following are true. The trust is a valid trust under state law, or would be but for the fact that there is no corpus. The trust is irrevocable or became, by its terms, irrevocable upon the owner's death. The beneficiaries of the trust who are beneficiaries with respect to the trust's interest in the owner's benefit are identifiable from the trust instrument."
+      }
+    ],
+    "definition": [
+      {
+        "file": "p590b.txt",
+        "quote": "If you inherit a traditional IRA, you are called a beneficiary. A beneficiary can be any person or entity the owner chooses to receive the benefits of the IRA after the owner dies. Beneficiaries of a traditional IRA must include in their gross income any taxable distributions they receive."
+      },
+      {
+        "file": "benef.txt",
+        "quote": "Beneficiaries of retirement plan and IRA accounts after the death of the account owner are subject to required minimum distribution (RMD) rules. A beneficiary is generally any person or entity the account owner chooses to receive the benefits of a retirement account or an IRA after they die. The owner must designate the beneficiary under procedures established by the plan."
+      },
+      {
+        "file": "p590b.txt",
+        "quote": "If a Roth IRA owner dies, the minimum distribution rules that apply to traditional IRAs apply to Roth IRAs as though the Roth IRA owner died before their required beginning date."
+      },
+      {
+        "file": "benef.txt",
+        "quote": "The factors that affect the distribution requirements for inherited retirement plan accounts and IRAs include: Whether the account owner died after 2019 (the SECURE Act made changes to the RMDs for beneficiaries if the death of the account holder occurred after 2019). The relationship of the beneficiary to the account owner and certain characteristics (spouse, minor child, disabled or chronically ill individual, entity other than an individual) Whether the original account owner died before or after their required beginning date (the first date the original account owner was required to begin taking RMDs)."
+      }
+    ],
+    "title": [
+      {
+        "file": "p590b.txt",
+        "quote": "If you inherit a traditional IRA from anyone other than your deceased spouse, you can't treat the inherited IRA as your own. This means that you can't make any contributions to the IRA. It also means you can't roll over any amounts into or out of the inherited IRA. However, you can make a trustee-to-trustee transfer as long as the IRA into which amounts are being moved is set up and maintained in the name of the deceased IRA owner for the benefit of you as beneficiary."
+      }
+    ],
+    "transfer": [
+      {
+        "file": "p590b.txt",
+        "quote": "If you inherit a traditional IRA from anyone other than your deceased spouse, you can't treat the inherited IRA as your own. This means that you can't make any contributions to the IRA. It also means you can't roll over any amounts into or out of the inherited IRA. However, you can make a trustee-to-trustee transfer as long as the IRA into which amounts are being moved is set up and maintained in the name of the deceased IRA owner for the benefit of you as beneficiary."
+      }
+    ],
+    "spouse-short": [
+      {
+        "file": "p590b.txt",
+        "quote": "If you inherit a traditional IRA from your spouse, you generally have the following two choices. Treat it as your own IRA by designating yourself as the account owner; or Treat it as your own by rolling it over into your IRA, or to the extent it is taxable, into a: Qualified employer plan, Qualified employee annuity plan (section 403(a) plan), Tax-sheltered annuity plan (section 403(b) plan), Deferred compensation plan of a state or local government (section 457 plan), or Treat yourself as the beneficiary rather than treating the IRA as your own. Treating it as your own. You will be considered to have chosen to treat the IRA as your own if: Contributions (including rollover contributions) are made to the inherited IRA, or You don't take the required minimum distribution for a year as a beneficiary of the IRA. You will only be considered to have chosen to treat the IRA as your own if: You are the sole beneficiary of the IRA, and You have an unlimited right to withdraw amounts from it. However, if you receive a distribution from your deceased spouse's IRA, you can roll that distribution over into your own IRA within the 60-day time limit, as long as the distribution isn't a required distribution, even if you aren't the sole beneficiary of your deceased spouse's IRA."
+      }
+    ],
+    "traditional-tax": [
+      {
+        "file": "p590b.txt",
+        "quote": "If you inherit a traditional IRA, you are called a beneficiary. A beneficiary can be any person or entity the owner chooses to receive the benefits of the IRA after the owner dies. Beneficiaries of a traditional IRA must include in their gross income any taxable distributions they receive."
+      },
+      {
+        "file": "p590b.txt",
+        "quote": "If you inherit a traditional IRA from a person who had basis in the IRA because of nondeductible contributions, that basis remains with the IRA."
+      }
+    ],
+    "roth-tax": [
+      {
+        "file": "benef.txt",
+        "quote": "Withdrawals of contributions from an inherited Roth are tax free. Most withdrawals of earnings from an inherited Roth IRA account are also tax-free. However, withdrawals of earnings may be subject to income tax if the Roth account is less than 5-years old at the time of the withdrawal."
+      }
+    ],
+    "checklist": [
+      {
+        "file": "rmdfaq.txt",
+        "quote": "Generally, a RMD is calculated for each account by dividing the prior December 31 balance of that IRA or retirement plan account by a life expectancy factor that the IRS publishes in Tables in Publication 590-B, Distributions from Individual Retirement Arrangements (IRAs) . Choose the life expectancy table to use based on your situation."
+      },
+      {
+        "file": "benef.txt",
+        "quote": "Beneficiaries of retirement plan and IRA accounts after the death of the account owner are subject to required minimum distribution (RMD) rules. A beneficiary is generally any person or entity the account owner chooses to receive the benefits of a retirement account or an IRA after they die. The owner must designate the beneficiary under procedures established by the plan."
+      },
+      {
+        "file": "benef.txt",
+        "quote": "The factors that affect the distribution requirements for inherited retirement plan accounts and IRAs include: Whether the account owner died after 2019 (the SECURE Act made changes to the RMDs for beneficiaries if the death of the account holder occurred after 2019). The relationship of the beneficiary to the account owner and certain characteristics (spouse, minor child, disabled or chronically ill individual, entity other than an individual) Whether the original account owner died before or after their required beginning date (the first date the original account owner was required to begin taking RMDs)."
+      }
+    ],
+    "rules-short": [
+      {
+        "file": "p590b.txt",
+        "quote": "The 10-year rule requires the IRA beneficiaries who are not taking life expectancy payments to withdraw the entire balance of the IRA by December 31 of the year containing the 10th anniversary of the owner’s death. For example, if the owner died in 2025, the beneficiary would have to fully distribute the IRA by December 31, 2035. The 10-year rule applies if (1) the beneficiary is an eligible designated beneficiary who elects the 10-year rule, if the owner died before reaching their required beginning date; or (2) the beneficiary is a designated beneficiary who is not an eligible designated beneficiary, regardless of whether the owner died before reaching their required beginning date."
+      },
+      {
+        "file": "fr.txt",
+        "quote": "(e) Eligible designated beneficiaries--(1) In general. A designated beneficiary of the employee is an eligible designated beneficiary if, at the time of the employee's death, the designated beneficiary is-- (i) The surviving spouse of the employee; (ii) A child of the employee (within the meaning of section 152(f)(1)) who has not reached the age of majority within the meaning of paragraph (e)(3) of this section; (iii) Disabled within the meaning of paragraph (e)(4) of this section; (iv) Chronically ill within the meaning of paragraph (e)(5) of this section; (v) Not more than 10 years younger than the employee as determined under paragraph (e)(6) of this section; or (vi) A designated beneficiary"
+      },
+      {
+        "file": "p590b.txt",
+        "quote": "If the owner died on or after their required beginning date (defined earlier) and you are a designated beneficiary, base your required minimum distributions for years after the year of the owner’s death on the longer of: Your single life expectancy shown in Table I in Appendix B; or The owner's life expectancy."
+      },
+      {
+        "file": "p590b.txt",
+        "quote": "There are new required minimum distribution rules for certain beneficiaries who are designated beneficiaries when the IRA owner dies in a tax year beginning after December 31, 2019. All distributions must be made by the end of the 10th year after death, except for distributions made to certain eligible designated beneficiaries."
+      }
+    ]
+  }
+}

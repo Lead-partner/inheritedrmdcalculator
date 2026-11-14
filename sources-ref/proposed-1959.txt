@@ -1,0 +1,966 @@
+                                                     58644                      Federal Register / Vol. 89, No. 139 / Friday, July 19, 2024 / Proposed Rules
+
+                                                     meeting, another alternate to act in his                 DEPARTMENT OF THE TREASURY                            FOR FURTHER INFORMATION CONTACT:
+                                                     or her place: Provided, that such                                                                              Concerning the proposed regulations,
+                                                     alternate represents the same group                      Internal Revenue Service                              call Brandon M. Ford or Jessica S.
+                                                     (grower or handler) as the member and                                                                          Weinberger at (202) 317–6700;
+                                                     is not from the same sales constituency                  26 CFR Part 1                                         concerning submission of comments,
+                                                     as another acting member or acting                                                                             the hearing, and the access code to
+                                                     alternate member in that district. In the                [REG–103529–23]                                       attend the hearing by telephone, call
+                                                     event of the death, removal, resignation                                                                       Vivian Hayes at (202) 317–6901 (not
+                                                                                                              RIN 1545–BQ66
+                                                     or disqualification of a member, the                                                                           toll-free numbers) or email
+                                                     alternate shall act for the member until                 Required Minimum Distributions+                       publichearings@irs.gov (preferred).
+                                                     a successor is appointed and has                                                                               SUPPLEMENTARY INFORMATION:
+                                                     qualified.                                               AGENCY: Internal Revenue Service (IRS),
+                                                                                                              Treasury.                                             Background
+                                                        (b) Alternate members may be from
+                                                     the same sales constituency as the                       ACTION: Notice of proposed rulemaking                   This document sets forth proposed
+                                                     member for whom they serve as an                         and notice of public hearing.                         amendments to the Income Tax
+                                                     alternate. In the event a member and his                                                                       Regulations (26 CFR part 1) under
+                                                                                                              SUMMARY: This document sets forth                     section 401(a)(9) of the Internal Revenue
+                                                     or her alternate are absent from a                       proposed regulations that would
+                                                     meeting of the Board, another alternate                                                                        Code of 1986 (Code). Section 401(a)(9)
+                                                                                                              provide guidance relating to required                 sets forth required minimum
+                                                     may act for the member following the                     minimum distributions from qualified
+                                                     requirements of § 930.28(a), provided                                                                          distribution rules for plans qualified
+                                                                                                              plans; section 403(b) annuity contracts,              under section 401(a). These rules are
+                                                     this does not create a sales constituency                custodial accounts, and retirement
+                                                     conflict with the other members of that                                                                        incorporated by reference in section
+                                                                                                              income accounts; individual retirement                408(a)(6) and (b)(3) for individual
+                                                     district.                                                accounts and annuities; and eligible                  retirement accounts and individual
+                                                        (c) The Board, with the approval of                   deferred compensation plans under                     retirement annuities (collectively, IRAs);
+                                                     the Secretary, may establish rules and                   section 457. These proposed regulations               section 403(b)(10) for annuity contracts,
+                                                     regulations necessary and incidental to                  would affect administrators of, and                   custodial accounts, and retirement
+                                                     the administration of this section.                      participants in, those plans; owners of               income accounts described in section
+                                                     ■ 6. Amend § 930.52 by revising                          individual retirement accounts and                    403(b) (section 403(b) plans); and
+                                                     paragraphs (a) and (d) to read as follows:               annuities; employees for whom amounts                 section 457(d)(2) for eligible deferred
+                                                                                                              are contributed to section 403(b)                     compensation plans. The determination
+                                                     § 930.52 Establishment of districts subject              annuity contracts, custodial accounts, or             of the required minimum distribution is
+                                                     to volume regulations.                                   retirement income accounts; and                       also relevant for purposes of the related
+                                                       (a) The districts in which handlers                    beneficiaries of those plans, contracts,              excise tax under section 4974 and the
+                                                     shall be subject to any volume                           accounts, and annuities. This document                definition of eligible rollover
+                                                     regulations implemented in accordance                    also provides notice of a public hearing.             distribution in section 402(c).
+                                                     with this part shall be those districts in               DATES: Written or electronic comments                   The Rules and Regulations section of
+                                                     which the average annual production of                   must be received by September 17,                     this issue of the Federal Register
+                                                     cherries over the prior 5 years has                      2024. A public hearing on this proposed               includes final regulations that amend
+                                                     exceeded 6 million pounds. Handlers                      regulation has been scheduled for                     the Income Tax Regulations and Excise
+                                                     shall become subject to volume                           September 25, 2024, at 10:00 a.m. ET.                 Tax Regulations (26 CFR parts 1 and 54)
+                                                     regulation implemented in accordance                     Requests to speak and outlines of topics              relating to sections 401(a)(9), 402(c),
+                                                     with this part in the crop year that                     to be discussed at the public hearing                 403(b), 408, 457, and 4974 (T.D. 10001).
+                                                     follows any 5-year period in which the                   must be received by September 17,                     The background section in the preamble
+                                                     6-million-pound average production                       2024. If no outlines are received by                  to those final regulations (2024 final
+                                                     requirement is exceeded in that district.                September 17, 2024, the public hearing                regulations) describes those provisions.
+                                                                                                              will be cancelled.
+                                                     *     *      *    *      *                                                                                     Explanation of Provisions
+                                                                                                              ADDRESSES: Commenters are strongly
+                                                       (d) Any district producing a crop                      encouraged to submit public comments                  A. Overview
+                                                     which is less than 50 percent of the                     electronically via the Federal
+                                                     average annual production in that                                                                                These proposed regulations would
+                                                                                                              eRulemaking Portal at                                 address various provisions that were
+                                                     district in the previous 5 years would be                www.regulations.gov (indicate IRS and
+                                                     exempt from any volume regulation if,                                                                          reserved in the 2024 final regulations.
+                                                                                                              REG–103529–23) by following the                       These proposed regulations address
+                                                     in that year, a restricted percentage is                 online instructions for submitting
+                                                     established.                                                                                                   sections 107, 202, 204, 302, 325, and
+                                                                                                              comments. Once submitted to the                       327 of the SECURE 2.0 Act of 2022
+                                                     *     *      *    *      *                               Federal eRulemaking Portal, comments                  (SECURE 2.0 Act), enacted on December
+                                                                                                              cannot be edited or withdrawn. The                    29, 2022, as Division T of the
+                                                     § 930.62   [Amended]
+                                                                                                              Department of the Treasury (Treasury                  Consolidated Appropriations Act, 2023,
+                                                     ■ 7. Amend § 930.62 by removing in                       Department) and the IRS will publish                  Public Law 117–328, 136 Stat. 4459
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+
+
+
+
+                                                     introductory text of paragraph (a) the                   for public availability any comment                   (2022), and certain other issues.
+                                                     text ‘‘§ 940.51’’ and adding in its place                submitted electronically or on paper to
+                                                     the text ‘‘§ 930.51’’.                                   its public docket on                                  B. Determination of Applicable Age for
+                                                                                                              www.regulations.gov. Send paper                       Employees Born in 1959
+                                                     Erin Morris,                                             submissions to: CC:PA:01:PR (REG–                       The 2024 final regulations include
+                                                     Associate Administrator, Agricultural                    103529–23), Room 5203, Internal                       rules for determining an employee’s
+                                                     Marketing Service.                                       Revenue Service, P.O. Box 7604, Ben                   applicable age, as defined in section
+                                                     [FR Doc. 2024–15629 Filed 7–18–24; 8:45 am]              Franklin Station, Washington, DC                      401(a)(9)(C)(v), which is a component of
+                                                     BILLING CODE 3410–02–P                                   20044.                                                the determination of the employee’s
+
+
+                                                VerDate Sep<11>2014   16:39 Jul 18, 2024   Jkt 262001   PO 00000   Frm 00009   Fmt 4702   Sfmt 4702   E:\FR\FM\19JYP1.SGM   19JYP1
+                                                                                Federal Register / Vol. 89, No. 139 / Friday, July 19, 2024 / Proposed Rules                                               58645
+
+                                                     required beginning date. Under those                     using the applicable method set forth in                 minimum distribution under any
+                                                     rules, which reflect the amendment to                    § 1.408A–4, Q&A–14(b)(2).1                               qualified retirement plan (as defined in
+                                                     section 401(a)(9)(C) made by section 107                                                                          section 4974(c) of the Code) or any
+                                                                                                              D. Distributions From Designated Roth
+                                                     of the SECURE 2.0 Act, an employee’s                                                                              eligible deferred compensation plan (as
+                                                                                                              Accounts
+                                                     applicable age varies based on the                                                                                defined in section 457(b)) for a calendar
+                                                     employee’s date of birth. However, as                       Section 325 of the SECURE 2.0 Act                     year, the excise tax under section 4974
+                                                     noted in the preamble to the 2024 final                  added a new paragraph (5) to section                     is reduced from 25 percent of the
+                                                     regulations, employees who were born                     402A(d) of the Code, which provides                      shortfall to 10 percent if, by the last day
+                                                     in 1959 are described in section                         that the provisions of section                           of the correction window, the taxpayer:
+                                                     401(a)(9)(C)(v)(I) of the Code (which                    401(a)(9)(A) (requiring that minimum                     (1) receives a corrective distribution
+                                                     provides that the applicable age for                     distributions be paid during an                          from the applicable plan in the amount
+                                                     those employees is age 73) as well as                    employee’s lifetime) and the incidental                  of the shortfall; and (2) submits a return
+                                                     section 401(a)(9)(C)(v)(II) (which                       death benefit requirements of section                    reflecting that reduced tax.
+                                                     provides that the applicable age for                     401(a) do not apply to any designated                       In addition, the 2024 final regulations
+                                                     those employees is age 75).                              Roth account. The 2024 final regulations                 provide for an automatic waiver of the
+                                                       The 2024 final regulations reserve                     include limited guidance relating to the                 section 4974 excise tax associated with
+                                                     § 1.401(a)(9)–2(b)(2)(v) for the                         application of that new paragraph.                       a failure by a beneficiary of an
+                                                     determination of the applicable age for                     Specifically, in the case of an                       individual to take a required minimum
+                                                                                                              employee for whom only a portion of                      distribution in the calendar year in
+                                                     employees born in 1959, and these
+                                                                                                              the employee’s account under a defined                   which the individual died if that
+                                                     proposed regulations would fill in the
+                                                                                                              contribution plan is held in a designated                individual had not already satisfied the
+                                                     reserved paragraph. Under the proposed
+                                                                                                              Roth account described in section                        minimum distribution requirement for
+                                                     regulations, the applicable age for an
+                                                                                                              402A(b)(2), § 1.401(a)(9)–5(b)(3) of the                 that year provided that the failure is
+                                                     employee who was born in 1959 would
+                                                                                                              2024 final regulations provides that, for                corrected within a specified period
+                                                     be age 73.
+                                                                                                              distribution calendar years up to and                    (generally by the end of the following
+                                                     C. Purchase of Annuity Contract With                     including the calendar year that                         calendar year). Specifically, § 54.4974–
+                                                     Portion of Employee’s Individual                         includes the employee’s date of death,                   1(g)(3)(iii) provides for an automatic
+                                                     Account—Rules of Operation for                           amounts held in that designated Roth                     waiver of the excise tax under section
+                                                     Aggregation Option                                       account are not taken into account for                   4974 if, by the tax filing deadline
+                                                                                                              purposes of determining the account                      (including extensions thereof) for the
+                                                        The 2024 final regulations include
+                                                                                                              balance that is used to calculate the                    taxable year of the beneficiary that
+                                                     guidance issued pursuant to section 204
+                                                                                                              required minimum distribution.                           begins with or within the calendar year
+                                                     of the SECURE 2.0 Act (relating to the
+                                                                                                              However, the 2024 final regulations                      of the individual’s death (or, if later, the
+                                                     application of section 401(a)(9) of the
+                                                                                                              reserve § 1.401(a)(9)–5(g)(2)(iii) for rules             last day of the calendar year following
+                                                     Code in a situation in which an
+                                                                                                              regarding how distributions from a                       that calendar year), the beneficiary takes
+                                                     employee’s interest in a defined                         designated Roth account are treated for
+                                                     contribution plan is partially annuitized                                                                         a corrective distribution in the amount
+                                                                                                              purposes of section 401(a)(9), and these                 needed to satisfy the minimum
+                                                     by using a portion of the employee’s                     proposed regulations fill in the reserved
+                                                     individual account to purchase an                                                                                 distribution requirement for the
+                                                                                                              paragraph.                                               calendar year of the death of the
+                                                     annuity contract). Specifically,                            Under proposed § 1.401(a)(9)–
+                                                     § 1.401(a)(9)–5(a)(5)(iv) provides that, in                                                                       individual.
+                                                                                                              5(g)(2)(iii), a distribution from a                         The 2024 final regulations reserve
+                                                     lieu of satisfying section 401(a)(9)                     designated Roth account made in a                        § 1.401(a)(9)–5(g)(2)(iv) for the treatment
+                                                     separately with respect to an annuity                    calendar year for which the employee is                  of corrective distributions that give rise
+                                                     contract purchased with a portion of the                 required to take a minimum distribution                  to a reduction or waiver of the section
+                                                     employee’s account and the remaining                     under the plan would not count towards                   4974 excise tax, and these proposed
+                                                     account balance, a plan may permit an                    satisfying that requirement. Consistent                  regulations would fill in that reserved
+                                                     employee to elect to satisfy section                     with this rule, the proposed regulations                 paragraph. Under proposed
+                                                     401(a)(9) for the annuity contract and                   would provide that such a distribution                   § 1.401(a)(9)–5(g)(2)(iv), a corrective
+                                                     that account balance in the aggregate by                 is not treated as a required minimum                     distribution described in section 4974(e)
+                                                     adding the fair market value of the                      distribution for purposes of § 1.402(c)–                 or § 54.4974–1(g)(3)(iii) would not be
+                                                     contract to the remaining account                        2(f). Thus, the distribution could be                    taken into account for purposes of
+                                                     balance and treating payments under                      rolled over to a Roth IRA if it otherwise                determining whether § 1.401(a)(9)–5 is
+                                                     the annuity contract as distributions                    meets the requirements to be an eligible                 satisfied for the calendar year in which
+                                                     from the employee’s individual account.                  rollover distribution.                                   the corrective distribution is made.
+                                                     However, the 2024 final regulations                                                                               Thus, under the proposed regulations, if
+                                                     reserve § 1.401(a)(9)–5(a)(5)(v) for rules               E. Corrective Distributions Giving Rise to
+                                                                                                              Reduction or Waiver of the Section 4974                  a missed required minimum
+                                                     of operation with respect to this                                                                                 distribution is corrected by a
+                                                     aggregation option, and these proposed                   Excise Tax
+                                                                                                                                                                       distribution made in a subsequent
+                                                     regulations would fill in the reserved                     The 2024 final regulations include                     calendar year, the required minimum
+                                                     paragraph.                                               guidance relating to the application of                  distribution for that subsequent year
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+
+
+
+
+                                                        Under proposed § 1.401(a)(9)–                         section 4974(e) (as added to the Code by                 must be made in addition to the
+                                                     5(a)(5)(v), the fair market value of the                 section 302(b) of the SECURE 2.0 Act).                   corrective distribution. Furthermore,
+                                                     annuity contract would be determined                     Specifically, § 54.4974–1(a)(2) provides                 under § 1.402(c)–2(f)(1) of the 2024 final
+                                                     as of December 31 of the calendar year                   that, in the case of a taxpayer who                      regulations, the corrective distribution
+                                                     preceding the distribution calendar                      doesn’t receive the full required                        is treated as a required minimum
+                                                     year. In addition, beginning with the                                                                             distribution and thus is not eligible for
+                                                                                                                1 Section 1.408A–4, Q&A–14(b)(2) sets forth rules
+                                                     determination used for the 2026                                                                                   rollover.
+                                                                                                              for determining the fair market value of a traditional
+                                                     distribution calendar year, the                          IRA that is an individual retirement annuity if that        These proposed regulations would
+                                                     determination would have to be made                      IRA is converted to a Roth IRA.                          make a conforming change to § 1.408–
+
+
+                                                VerDate Sep<11>2014   16:39 Jul 18, 2024   Jkt 262001   PO 00000   Frm 00010   Fmt 4702   Sfmt 4702   E:\FR\FM\19JYP1.SGM   19JYP1
+                                                     58646                       Federal Register / Vol. 89, No. 139 / Friday, July 19, 2024 / Proposed Rules
+
+                                                     8(g)(2) under which these corrective                      that spouse is subject to the life                    required minimum distribution for each
+                                                     distributions would not be taken into                     expectancy rule, then the treatment                   distribution calendar year up to and
+                                                     account for purposes of determining                       described in section 401(a)(9)(B)(iv)(II)             including the calendar year that
+                                                     whether § 1.408–8 of the 2024 final                       and (III) will apply automatically (that              includes the surviving spouse’s date of
+                                                     regulations is satisfied for the calendar                 is, a separate election is not required).             death would be determined using the
+                                                     year in which the corrective distribution                 See § 1.401(a)(9)–3(d) and (e) of the                 Uniform Lifetime Table (rather than the
+                                                     is made. In addition, because § 1.408–                    2024 final regulations.                               Single Life Table) for the surviving
+                                                     8(b)(3) of the 2024 final regulations                        Section 327(b) of the SECURE 2.0 Act               spouse’s age as of the surviving spouse’s
+                                                     provides that the determination of                        instructs the Secretary to modify the                 birthday in the distribution calendar
+                                                     whether a distribution from an IRA is a                   regulations applicable to defined                     year.4 In accordance with § 1.401(a)(9)–
+                                                     required minimum distribution (and                        contribution plans under section                      5(d)(1)(i) of the 2024 final regulations,
+                                                     thus not eligible for rollover pursuant to                401(a)(9) of the Code so that an election             the required minimum distribution for
+                                                     section 408(d)(3)(E)) is made in the                      under section 401(a)(9)(B)(iv) by the                 the calendar year of the surviving
+                                                     same manner as provided in § 1.402(c)–                    surviving spouse will extend the                      spouse’s death must be made to a
+                                                     2(f) and (j), the treatment under                         distribution period in the case of an                 beneficiary of the surviving spouse to
+                                                     § 1.402(c)–2(f)(1) of the corrective                      employee’s death after the required                   the extent it has not already been
+                                                     distribution as a required minimum                        beginning date. In accordance with this               distributed to the surviving spouse.
+                                                     distribution (and thus not eligible for                   instruction, § 1.401(a)(9)–5(g)(3)(i) of the             These proposed regulations provide
+                                                     rollover) would also apply for purposes                   2024 final regulations provides that a                that, if the election described in
+                                                     of section 408(d)(3)(E).                                  defined contribution plan may permit a                § 1.401(a)(9)–5(g)(3)(i) is in effect for the
+                                                                                                               surviving spouse who is the sole                      surviving spouse and the spouse dies on
+                                                     F. Spousal Election Under Section 327                     beneficiary of the employee to elect to
+                                                     of the SECURE 2.0 Act                                                                                           or after the date on which distributions
+                                                                                                               be treated as the employee for purposes               are considered to have begun to the
+                                                       The 2024 final regulations permit a                     of determining the required minimum                   spouse under the rules of § 1.401(a)(9)–
+                                                     defined contribution plan to provide                      distribution for a calendar year. The                 3(e)(3) of the 2024 final regulations (that
+                                                     that, if an employee participating in the                 2024 final regulations reserve                        is, the end of the calendar year in which
+                                                     plan dies before the required beginning                   § 1.401(a)(9)–5(g)(3)(ii) for rules relating          the employee would have reached the
+                                                     date, then an eligible designated                         to this election, and these proposed                  applicable age), then annual
+                                                     beneficiary of the employee (including                    regulations would fill in that reserved               distributions to the spouse’s beneficiary
+                                                     the employee’s surviving spouse) may                      paragraph.                                            would have to continue. Those
+                                                     elect to receive the beneficiary’s interest                  Proposed § 1.401(a)(9)–5(g)(3)(ii)                 distributions would be determined
+                                                     under the plan under the 10-year rule or                  provides a series of rules that would                 using the spouse’s remaining life
+                                                     as annual payments over a period not                      apply with respect to the spousal                     expectancy for the spouse’s age as of the
+                                                     extending beyond the beneficiary’s life                   election described in § 1.401(a)(9)–                  spouse’s birthday in the calendar year of
+                                                     expectancy.2 Section 401(a)(9)(B)(iv)(I)                  5(g)(3)(i) of the 2024 final regulations.             the spouse’s death from the Single Life
+                                                     through (III) of the Code, as amended by                  Under the proposed regulations, if the                Table, reduced by one for each
+                                                     section 327(a) of the SECURE 2.0 Act,                     employee dies before the required                     subsequent calendar year. In addition,
+                                                     provides that, if the designated                          beginning date and the sole beneficiary               the proposed regulations add a
+                                                     beneficiary of an employee who dies                       of the employee is the surviving spouse               conforming sentence to § 1.401(a)(9)–
+                                                     before the employee’s required                            who is subject to the life expectancy                 4(e)(8), providing that the spouse’s
+                                                     beginning date is the employee’s                          rule, then the spouse would
+                                                                                                                                                                     beneficiary would not be an eligible
+                                                     surviving spouse, then the spouse may                     automatically be treated as making the
+                                                                                                                                                                     designated beneficiary in this situation.
+                                                     elect to: (1) be treated as if the surviving              election described in section
+                                                                                                                                                                     As a result, a final distribution of the
+                                                     spouse were the employee for purposes                     401(a)(9)(B)(iv). As a result, the
+                                                                                                                                                                     employee’s interest would have to be
+                                                     of the regulations referred to in section                 proposed regulations provide that
+                                                                                                                                                                     made by the end of the calendar year
+                                                     401(a)(9)(B)(iii)(II) of the Code                         section 401(a)(9)(B)(iv)(I) (under which
+                                                                                                                                                                     that includes the tenth anniversary of
+                                                     (providing for annual payments over the                   the spouse is treated as the employee for
+                                                                                                                                                                     the spouse’s death.
+                                                     beneficiary’s life or life expectancy), (2)               purposes of section 401(a)(9)(B)(iii)(II))
+                                                                                                                                                                        Under the proposed regulations, the
+                                                     delay commencement of required                            would apply automatically in this case
+                                                                                                                                                                     spousal election described in
+                                                     minimum distributions until the year                      (in addition to the automatic application
+                                                                                                                                                                     § 1.401(a)(9)–5(g)(3)(i) would be
+                                                     the employee would have attained the                      of sections 401(a)(9)(B)(iv)(II) and (III)).
+                                                                                                                                                                     available only if the first year for which
+                                                     applicable age (as defined in section                     If the employee dies on or after the
+                                                                                                                                                                     annual required minimum distributions
+                                                     401(a)(9)(C)(v)), and (3) be treated as the               required beginning date, then the
+                                                                                                                                                                     to the surviving spouse must be made is
+                                                     employee in the event the surviving                       corresponding election under section
+                                                                                                                                                                     2024 or later. For example, if an
+                                                     spouse dies before distributions to the                   327(b) of the SECURE 2.0 Act does not
+                                                                                                                                                                     employee who died in 2017 and before
+                                                     spouse begin.3                                            apply automatically. However, these
+                                                                                                                                                                     the employee’s required beginning date
+                                                       Under the 2024 final regulations, if:                   proposed regulations would provide
+                                                                                                               that this corresponding election may be               would have reached the applicable age
+                                                     (1) the employee dies before the                                                                                in 2024 or later, then the first year for
+                                                     employee’s required beginning date; (2)                   the default election under the terms of
+                                                                                                               a plan (so that the surviving spouse                  which an annual required minimum
+                                                     the employee’s surviving spouse is the
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+
+
+
+
+                                                                                                               need not take any action to have this                 distribution is due would be 2024 or
+                                                     sole beneficiary of the employee; and (3)
+                                                                                                               election apply).                                        4 However, if the employee dies on or after the
+                                                       2 If the employee is a participant in a defined            If the election under § 1.401(a)(9)–               employee’s required beginning date and the
+                                                     benefit plan, the election is between receiving the       5(g)(3)(i) is in effect for a surviving               employee’s remaining life expectancy is greater
+                                                     beneficiary’s interest under a 5-year rule or as          spouse, then, regardless of whether the               than the applicable denominator determined under
+                                                     annuity payments over the beneficiary’s lifetime.         employee died before, on, or after the                the Uniform Lifetime Table for the surviving
+                                                       3 Section 401(a)(9)(B)(iv)(II) and (III) correspond                                                           spouse’s age (which would occur only if the
+                                                     to section 401(a)(9)(B)(iv)(I) and (II) before the
+                                                                                                               required beginning date, the proposed                 surviving spouse was more than ten years older
+                                                     changes made by section 327(a) of the SECURE 2.0          regulations provide that the applicable               than the employee), then that greater life
+                                                     Act.                                                      denominator used for determining the                  expectancy is used as the applicable denominator.
+
+
+
+                                                VerDate Sep<11>2014    16:39 Jul 18, 2024   Jkt 262001   PO 00000   Frm 00011   Fmt 4702   Sfmt 4702   E:\FR\FM\19JYP1.SGM   19JYP1
+                                                                                Federal Register / Vol. 89, No. 139 / Friday, July 19, 2024 / Proposed Rules                                                58647
+
+                                                     later, and the spousal election could                    through 120+. This table was originally               Income Security Act of 1974,7 a divorce
+                                                     apply. However, if the employee would                    published in Notice 2022–6, 2022–5 IRB                or separation instrument may be
+                                                     have reached the applicable age in 2022,                 460, relating to the determination of                 substituted for a QDRO. The 2024 final
+                                                     then the first year for which an annual                  whether a series of payments is                       regulations reserve § 1.401(a)(9)–
+                                                     required minimum distribution is due to                  considered a series of substantially                  6(q)(3)(vii)(B) for rules related to this
+                                                     the spouse was 2022, and the spousal                     equal periodic payments.                              divorce or separation instrument
+                                                     election would not be available.                            Section 1.402(c)–2(j)(4) of the 2024               alternative, and these proposed
+                                                     Similarly, if the employee died in 2021                  final regulations sets forth a special rule           regulations would fill in the reserved
+                                                     and after the employee’s required                        under which a portion of a distribution               paragraph.
+                                                     beginning date, then the spouse must                     to certain surviving spouses (that is, the               Under proposed § 1.401(a)(9)–
+                                                     begin receiving annual required                          portion of the distribution that                      6(q)(3)(vii)(B), the divorce or separation
+                                                     minimum distributions (based on the                      represents a catch-up of missed                       instrument alternative would be
+                                                     spouse’s remaining life expectancy) in                   hypothetical required minimum                         available only if the plan is not subject
+                                                     2022, and the spousal election would                     distributions) is treated as a required               to both section 414(p) of the Code and
+                                                     not be available.                                        minimum distribution that is not                      section 206(d) of ERISA (for example, a
+                                                        Although an election under section                    eligible for rollover. Section 1.402(c)–              governmental plan described in section
+                                                     401(a)(9)(B)(iv) of the Code results in                  2(j)(4)(iii), which provides rules for the            414(d) of the Code). In accordance with
+                                                     the spouse being treated as the                          calculation of the hypothetical required              section 202(b) of the SECURE 2.0 Act,
+                                                     employee for purposes of the                             minimum distributions, includes the                   these proposed regulations would
+                                                     regulations referred to in section                       assumption that the election in                       provide that, for purposes of this
+                                                     401(a)(9)(B)(iii)(II) (that is, § 1.401(a)(9)–           § 1.401(a)(9)–5(g)(3)(i) was in effect for            alternative, a divorce or separation
+                                                     5), that treatment does not extend to                    the spouse. The 2024 final regulations                instrument is: (1) a decree of divorce or
+                                                     other purposes.5 For example, the                        reserve § 1.402(c)–2(j)(4)(vii) for an                separate maintenance or a written
+                                                     spouse would not be subject to the 10                    example of the calculation of the                     instrument incident to such a decree; (2)
+                                                     percent additional tax under section                     hypothetical required minimum                         a written separation agreement; or (3)
+                                                     72(t)(2)(A)(ii) even if the spouse takes a               distributions, and proposed § 1.402(c)–               any other decree requiring an individual
+                                                     distribution before attaining age 591⁄2.                 2(j)(4)(vii) would fill in the reserved               to make payments for the support or
+                                                     Similarly, the date by which the                         paragraph with an example of the                      maintenance of the individual’s former
+                                                     surviving spouse must commence                           calculation of the hypothetical required              spouse.
+                                                     distributions is determined by reference                 minimum distributions over multiple                   H. Outright Distribution to Trust
+                                                     to the employee’s attainment of the                      years, which reflects the use of the                  Beneficiary
+                                                     applicable age (rather than by reference                 Uniform Lifetime Table.
+                                                     to the spouse’s attainment of the                                                                                 The 2024 final regulations provide
+                                                                                                                 The proposed regulations do not                    rules for the separate application of
+                                                     applicable age 6). In addition, for                      include any changes to the defined
+                                                     purposes of determining the account                                                                            section 401(a)(9) of the Code with
+                                                                                                              benefit rules of § 1.401(a)(9)–6 to reflect           respect to multiple beneficiaries of a
+                                                     balance under a plan while the                           the amendment to section
+                                                     surviving spouse is taking distributions,                                                                      see-through trust (within the meaning of
+                                                                                                              401(a)(9)(B)(iv) made by section 327 of               § 1.401(a)(9)–4(f)(1)). Specifically,
+                                                     § 1.401(a)(9)–5(b)(3) of the 2024 final                  the SECURE 2.0 Act. Comments are
+                                                     regulations (which excludes amounts                                                                            § 1.401(a)(9)–8(a) of the 2024 final
+                                                                                                              requested on whether there are                        regulations permits separate application
+                                                     held in a designated Roth account from                   circumstances under which that                        of section 401(a)(9) with respect to each
+                                                     the employee’s account balance during                    provision would affect the required                   of the beneficiaries’ separate interests if
+                                                     the employee’s lifetime) does not apply.                 minimum distribution rules applicable                 the terms of a see-through trust meet
+                                                     Thus, all amounts held in a designated                   to defined benefit plans.                             certain requirements. One of those
+                                                     Roth account and any other account
+                                                                                                              G. Divorce After Purchase of Qualifying               requirements is that the trust must
+                                                     under the plan are included for
+                                                                                                              Longevity Annuity Contract                            provide that it is to be divided
+                                                     purposes of determining the required
+                                                                                                                                                                    immediately upon the death of the
+                                                     minimum distribution due under the                          Section 202(a)(3) of the SECURE 2.0                employee, with the separate interests to
+                                                     plan for the calendar year.                              Act instructs the Secretary of the                    be held in separate see-through trusts.
+                                                        These proposed regulations also                       Treasury (or that person’s delegate) to                  Proposed § 1.401(a)(9)–8(a)(1)(iii)(B)
+                                                     provide an updated Uniform Lifetime                      amend § 1.401(a)(9)–6 to provide that, in             sets forth an exception to that
+                                                     Table that provides the applicable                       the case of a qualifying longevity                    requirement in the case of an outright
+                                                     denominator for individuals ages 10                      annuity contract (QLAC) which was                     distribution to a trust beneficiary, as
+                                                                                                              purchased with joint and survivor                     described in proposed § 1.401(a)(9)–
+                                                        5 However, if the spouse dies before distributions
+                                                                                                              annuity benefits for an individual and                8(a)(1)(iii)(D). Under the proposed
+                                                     have begun, then in accordance with section
+                                                     401(a)(9)(B)(iv)(III), the spouse is treated as the      the individual’s spouse, a divorce                    regulations, the rules under
+                                                     employee for purposes of determining the                 occurring after the original purchase                 § 1.401(a)(9)–8(a)(1)(iii)(C) of the 2024
+                                                     beneficiary designated under the plan. In addition,      and before the date that the annuity                  final regulations (prohibiting discretion
+                                                     if the spouse executes a spousal rollover to the         payments commence under the contract
+                                                     spouse’s own IRA in accordance with section
+                                                                                                                                                                    in the allocation of post-death
+                                                     402(c)(9) after having made the election described       will not affect the permissibility of the             distributions attributable to the
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+
+
+
+
+                                                     in section 401(a)(9)(B)(iv), then the spouse will not    joint and survivor benefits if certain                employee’s interest in the plan) would
+                                                     be treated as a beneficiary with respect to any          conditions related to an associated                   be extended to apply when that outright
+                                                     amounts in that IRA.                                     qualified domestic relations order
+                                                        6 The election under section 401(a)(9)(B)(iv) does
+                                                                                                                                                                    distribution exception is used.
+                                                     not affect the ability of the employee’s surviving
+                                                                                                              (QDRO) described in section 414(p) of                    Under proposed § 1.401(a)(9)–
+                                                     spouse to make a rollover to the spouse’s own IRA        the Code are met. Section 202(a)(3) of                8(a)(1)(iii)(D), the separate interests of
+                                                     or to treat an IRA as the surviving spouse’s own         the SECURE 2.0 Act also provides that
+                                                     IRA. In either of these cases, the date by which         if the arrangement is not subject to                     7 The Employee Retirement Income Security Act
+
+                                                     distributions from that IRA must commence would                                                                of 1974, Public Law 93–406, 88 Stat. 829, as
+                                                     be determined by reference to the surviving
+                                                                                                              section 414(p) of the Code or section                 amended, is referred to in this preamble as
+                                                     spouse’s attainment of the applicable age.               206(d) of the Employee Retirement                     ‘‘ERISA.’’
+
+
+
+                                                VerDate Sep<11>2014   16:39 Jul 18, 2024   Jkt 262001   PO 00000   Frm 00012   Fmt 4702   Sfmt 4702   E:\FR\FM\19JYP1.SGM   19JYP1
+                                                     58648                      Federal Register / Vol. 89, No. 139 / Friday, July 19, 2024 / Proposed Rules
+
+                                                     the beneficiaries held in a see-through                  recordkeeping requirements, in sections               plan may permit a surviving spouse
+                                                     trust would not fail to be eligible for the              1.401(a)(9)–5(a)(5)(iv) and 1.401(a)(9)–              who is the sole beneficiary of an
+                                                     exception in proposed § 1.401(a)(9)–                     5(g)(3)(ii), that are required to determine           employee to elect to be treated as the
+                                                     8(a)(1)(iii)(B) merely because, upon                     the required minimum distribution for a               employee for purposes of determining
+                                                     termination of that trust, a beneficiary’s               calendar year for certain defined                     the required minimum distribution from
+                                                     separate interest in the trust is to be                  contribution plan participants and                    a defined contribution plan for a
+                                                     held directly by that beneficiary rather                 beneficiaries. These collections of                   calendar year. Section 1.401(a)(9)–
+                                                     than being held by a separate see-                       information would generally be used by                5(g)(3)(ii) of these proposed regulations
+                                                     through trust. Thus, for example, if a                   the IRS for tax compliance purposes and               supplements that provision by
+                                                     trust which is a named beneficiary                       plan administrators to facilitate                     providing a series of rules that would
+                                                     provides that each of three children                     compliance with the required minimum                  apply with respect to the spousal
+                                                     have equal interests in the portion of the               distribution requirements under section               election described in the preceding
+                                                     trust attributable to the employee’s                     401(a)(9) of the Code. The likely                     sentence. Under these proposed
+                                                     interest in the plan, and the trust                      respondents to these collections are                  regulations, if the employee dies before
+                                                     provides that it is to be immediately                    employees participating in retirement                 the employee’s required beginning date
+                                                     divided upon the death of the employee,                  plans and their beneficiaries.                        and the sole beneficiary of the employee
+                                                     then section 401(a)(9) is permitted to be                  The 2024 final regulations include                  is the surviving spouse who is subject
+                                                     applied separately with respect to the                   guidance relating to the application of               to the life expectancy rule, then the
+                                                     separate interests of the three children,                section 401(a)(9) in a situation in which             spouse would automatically be treated
+                                                     even if the separate interest of one of the              an employee’s interest in a defined                   as making the election. If the employee
+                                                     children is held by a sub-trust while the                contribution plan is partially annuitized             dies on or after the required beginning
+                                                     separate interests of the other children                 by using a portion of the employee’s                  date, then the election would not apply
+                                                     are held directly by those children.                     account to purchase an annuity                        automatically. However, the proposed
+                                                                                                              contract. Specifically, section                       regulations provide that the election
+                                                     Applicability Dates                                      1.401(a)(9)–5(a)(5)(iv) of the final                  may be the default under the terms of
+                                                        The amendments to §§ 1.401(a)(9)–4,                   regulations provides that, in lieu of                 a plan (so that the surviving spouse
+                                                     1.401(a)(9)–5, 1.401(a)(9)–6, 1.401(a)(9)–               satisfying section 401(a)(9) separately               need not take any action to have the
+                                                     8, 1.401(a)(9)–9, and 1.408–8 are                        with respect to an annuity contract                   election apply). This election is
+                                                     proposed to apply for purposes of                        purchased with a portion of an                        expected to be made as a third-party
+                                                     determining required minimum                             employee’s defined contribution plan                  disclosure between the surviving spouse
+                                                     distributions for calendar years                         account and the remaining account                     and the plan administrator, who will
+                                                     beginning on or after January 1, 2025.                   balance, a plan may permit an employee                keep records of the election. The
+                                                     The amendments to § 1.402(c)–2 are                       to elect to satisfy section 401(a)(9) for             associated burden is as follows:
+                                                     proposed to apply for distributions on                   the annuity contract and the remaining                   Estimated number of respondents:
+                                                     or after January 1, 2025. Thus, these                    account balance in the aggregate by                   156,960.
+                                                     amendments would have the same                           adding the fair market value of the                      Estimated average annual burden per
+                                                     applicability dates as the corresponding                 contract to the remaining account                     respondent: 0.17 hours (10 minutes).
+                                                     provisions in the 2024 final regulations.                balance and treating payments under                      Estimated frequency of responses:
+                                                                                                              the annuity contract as distributions                 Once.
+                                                     Special Analyses                                                                                                  Estimated total annual reporting
+                                                                                                              from the individual account. Section
+                                                     I. Regulatory Planning and Review                        1.401(a)(9)–5(a)(5)(v) of the proposed                burden: 26,683 hours.
+                                                                                                              regulations provides rules of operation                  The collections of information
+                                                       Pursuant to the Memorandum of                                                                                contained in this notice of proposed
+                                                     Agreement, Review of Treasury                            with respect to this aggregation option—
+                                                                                                              specifically, the method and date for                 rulemaking have been submitted to the
+                                                     Regulations under Executive Order                                                                              Office of Management and Budget for
+                                                     12866 (June 9, 2023), tax regulatory                     valuation of the annuity contract. Under
+                                                                                                              these rules of operation, annuity                     review in accordance with the
+                                                     actions issued by the IRS are not subject                                                                      Paperwork Reduction Act. Commenters
+                                                     to the requirements of section 6 of                      contract issuers are expected to provide
+                                                                                                              the annuity valuations as a third-party               are strongly encouraged to submit
+                                                     Executive Order 12866, as amended.                                                                             public comments electronically. Written
+                                                     Therefore, a regulatory impact                           disclosure. In addition, the amount of
+                                                                                                              payments made under the annuity                       comments and recommendations for the
+                                                     assessment is not required.                                                                                    proposed information collection should
+                                                                                                              contract and the underlying value of the
+                                                     II. Paperwork Reduction Act                              annuity contract is expected to be                    be sent to www.reginfo.gov/public/do/
+                                                                                                              reported to the employer as a third-party             PRAMain, with copies to the Internal
+                                                       The Paperwork Reduction Act of 1995                                                                          Revenue Service. Find this particular
+                                                     (44 U.S.C. 3501–3520) generally                          disclosure. The associated burden is as
+                                                                                                              follows:                                              information collection by selecting
+                                                     requires that a Federal agency obtain the                                                                      ‘‘Currently under Review—Open for
+                                                     approval of the Office of Management                       Estimated number of respondents:
+                                                                                                              19,620.                                               Public Comments’’ and using the search
+                                                     and Budget (OMB) before collecting                                                                             function. Submit electronic submissions
+                                                     information from the public, whether                       Estimated average annual burden per
+                                                                                                              respondent: 0.5 hours (30 minutes).                   for the proposed information collection
+                                                     such collection of information is                                                                              to the IRS via email at pra.comments@
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+
+
+
+
+                                                     mandatory, voluntary, or required to                       Estimated frequency of responses:
+                                                                                                              Once.                                                 irs.gov (indicate REG–103529–23 on the
+                                                     obtain or retain a benefit. An agency                                                                          Subject line). Comments on the
+                                                                                                                Estimated total annual reporting
+                                                     may not conduct or sponsor, and a                                                                              collection of information should be
+                                                                                                              burden: 9,810 hours.
+                                                     person is not required to respond to, a                                                                        received by September 17, 2024.
+                                                                                                                Section 1.401(a)(9)–5(g)(3)(i) of the
+                                                     collection of information unless the                                                                           Comments are specifically requested
+                                                                                                              2024 final regulations 8 provides that a
+                                                     collection of information displays a
+                                                     valid control number.                                      8 These proposed regulations are being published    those regulations. The collection requirements in
+                                                       These proposed regulations include                     simultaneously with the 2024 final regulations, and   the 2024 final regulations are approved under OMB
+                                                     third-party disclosures and                              address various provisions that were reserved in      control number 1545–1573.
+
+
+
+                                                VerDate Sep<11>2014   16:39 Jul 18, 2024   Jkt 262001   PO 00000   Frm 00013   Fmt 4702   Sfmt 4702   E:\FR\FM\19JYP1.SGM   19JYP1
+                                                                                Federal Register / Vol. 89, No. 139 / Friday, July 19, 2024 / Proposed Rules                                           58649
+
+                                                     concerning: whether the proposed                         IV. Unfunded Mandates Reform Act                      Participants may alternatively attend the
+                                                     collection of information is necessary                                                                         public hearing by telephone.
+                                                     for the proper performance of the                          Section 202 of the Unfunded                            The rules of 26 CFR 601.601(a)(3)
+                                                                                                              Mandates Reform Act of 1995 requires                  apply to the hearing. Persons who wish
+                                                     functions of the IRS, including whether
+                                                                                                              that agencies assess anticipated costs                to present oral comments must submit
+                                                     the information will have practical
+                                                                                                              and benefits and take certain other                   an outline of the topics to be addressed
+                                                     utility; the accuracy of the estimated
+                                                                                                              actions before issuing a final rule that              and the time to be devoted to each topic
+                                                     burden associated with the proposed                      includes any Federal mandate that may
+                                                     collection of information; how the                                                                             by September 17, 2024. A period of 10
+                                                                                                              result in expenditures in any one year                minutes will be allocated to each person
+                                                     quality, utility, and clarity of the                     by a State, local, or tribal government,
+                                                     information to be collected may be                                                                             for making comments. An agenda
+                                                                                                              in the aggregate, or by the private sector,           showing the scheduling of the speakers
+                                                     enhanced; how the burden of complying                    of $100 million in 1995 dollars, updated              will be prepared after the deadline for
+                                                     with the proposed collection of                          annually for inflation. The proposed                  receiving outlines has passed. Copies of
+                                                     information may be minimized,                            regulations do not propose any rule that              the agenda will be available free of
+                                                     including through the application of                     would include any Federal mandate that                charge at the hearing. If no outline of the
+                                                     automated collection techniques or                       may result in expenditures by State,                  topics to be discussed at the hearing is
+                                                     other forms of information technology;                   local, or tribal governments, or by the               received by September 17, 2024, the
+                                                     and estimates of capital or start-up costs               private sector, in excess of that                     public hearing will be cancelled. If the
+                                                     and costs of operation, maintenance,                     threshold.                                            public hearing is cancelled, a notice of
+                                                     and purchase of services to provide                                                                            cancellation of the public hearing will
+                                                     information.                                             V. Executive Order 13132: Federalism
+                                                                                                                                                                    be published in the Federal Register.
+                                                                                                                Executive Order 13132 (Federalism)                     Individuals who want to testify in
+                                                     III. Regulatory Flexibility Act
+                                                                                                              prohibits an agency from publishing any               person at the public hearing must send
+                                                        Pursuant to the Regulatory Flexibility                rule that has federalism implications if              an email to publichearings@irs.gov to
+                                                     Act (5 U.S.C. chapter 6), it is hereby                   the rule either imposes substantial,                  have your name added to the building
+                                                     certified that these proposed regulations                direct compliance costs on State and                  access list. The subject line of the email
+                                                     will not have a significant economic                     local governments, and is not required                must contain the regulation number
+                                                     impact on a substantial number of small                  by statute, or preempts State law, unless             REG–103529–23 and the language
+                                                     entities. These proposed regulations                     the agency meets the consultation and                 TESTIFY In Person. For example, the
+                                                                                                              funding requirements of section 6 of the              subject line may say: Request to
+                                                     would affect individuals and
+                                                                                                              Executive order. The proposed                         TESTIFY In Person at Hearing for REG–
+                                                     businesses, some of which may be small
+                                                                                                              regulations do not propose rules that                 103529–23.
+                                                     entities. The rule affects administrators                                                                         Individuals who want to testify by
+                                                     of, and participants in, certain plans;                  would have federalism implications,
+                                                                                                              impose substantial direct compliance                  telephone at the public hearing must
+                                                     owners of individual retirement                                                                                send an email to publichearings@irs.gov
+                                                     accounts and annuities; employees for                    costs on State and local governments, or
+                                                                                                              preempt State law within the meaning                  to receive the telephone number and
+                                                     whom amounts are contributed to                                                                                access code for the hearing. The subject
+                                                                                                              of the Executive order.
+                                                     section 403(b) annuity contracts,                                                                              line of the email must contain the
+                                                     custodial accounts, or retirement                        Comments and Public Hearing                           regulation number REG–103529–23 and
+                                                     income accounts; and beneficiaries of                                                                          the language TESTIFY Telephonically.
+                                                     those plans, contracts, accounts, and                      Before these proposed amendments to
+                                                                                                                                                                    For example, the subject line may say:
+                                                     annuities. These proposed regulations                    the regulations are adopted as final
+                                                                                                                                                                    Request to TESTIFY Telephonically at
+                                                                                                              regulations, consideration will be given              Hearing for REG–103529–23.
+                                                     do not impose new compliance burdens
+                                                                                                              to comments regarding the notice of                      Individuals who want to attend the
+                                                     and are not expected to result in
+                                                                                                              proposed rulemaking that are submitted                public hearing in person without
+                                                     economically meaningful changes in
+                                                                                                              timely to the IRS as prescribed in the                testifying must also send an email to
+                                                     behavior relative to the existing
+                                                                                                              preamble under the ADDRESSES section.                 publichearings@irs.gov to have your
+                                                     regulations. It is expected that most
+                                                                                                              The Treasury Department and the IRS                   name added to the building access list.
+                                                     plans will provide the spousal election
+                                                                                                              request comments on all aspects of the                The subject line of the email must
+                                                     under § 1.401(a)(9)–5(g)(3) as a default                 proposed regulation. All comments will
+                                                     election under the plan and that                                                                               contain the regulation number REG–
+                                                                                                              be made available at                                  103529–23 and the language ATTEND
+                                                     surviving spouses will rarely opt out of                 www.regulations.gov. Once submitted to
+                                                     the default (because of the tax benefit of                                                                     In Person. For example, the subject line
+                                                                                                              the Federal eRulemaking Portal,                       may say: Request to ATTEND Hearing In
+                                                     the default election). Therefore, the                    comments cannot be edited or
+                                                     economic impact of the rule is not                                                                             Person for REG–103529–23. Requests to
+                                                                                                              withdrawn.                                            attend the public hearing must be
+                                                     expected to be significant.
+                                                                                                                A public hearing has been scheduled                 received by 5:00 p.m. ET on September
+                                                        Notwithstanding this certification that               for September 25, 2024, beginning at                  23, 2024.
+                                                     the proposed regulations would not                       10:00 a.m. ET in the Auditorium of the                   Individuals who want to attend the
+                                                     have a significant economic impact on                    Internal Revenue Building, 1111                       public hearing by telephone without
+                                                     a substantial number of small entities,                  Constitution Avenue NW, Washington,                   testifying must also send an email to
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+
+
+
+
+                                                     the Treasury Department and the IRS                      DC. Due to building security                          publichearings@irs.gov to receive the
+                                                     invite comments on the impacts these                     procedures, visitors must enter at the                telephone number and access code for
+                                                     proposed regulations may have on small                   Constitution Avenue entrance. In                      the hearing. The subject line of the
+                                                     entities. Pursuant to section 7805(f) of                 addition, all visitors must present photo             email must contain the regulation
+                                                     the Code, these proposed regulations                     identification to enter the building.                 number REG–103529–23 and the
+                                                     will be submitted to the Chief Counsel                   Because of access restrictions, visitors              language ATTEND Hearing
+                                                     for Advocacy of the Small Business                       will not be admitted beyond the                       Telephonically. For example, the
+                                                     Administration for comment on their                      immediate entrance area more than 30                  subject line may say: Request to
+                                                     impact on small businesses.                              minutes before the hearing starts.                    ATTEND Hearing Telephonically for
+
+
+                                                VerDate Sep<11>2014   16:39 Jul 18, 2024   Jkt 262001   PO 00000   Frm 00014   Fmt 4702   Sfmt 4702   E:\FR\FM\19JYP1.SGM   19JYP1
+                                                     58650                      Federal Register / Vol. 89, No. 139 / Friday, July 19, 2024 / Proposed Rules
+
+                                                     REG–103529–23. Requests to attend the                       (v) Employees born in 1959. In the                 Roth account (as described in section
+                                                     public hearing must be received by 5:00                  case of an employee born in 1959, the                 402A(b)(2)) are not taken into account
+                                                     p.m. ET on September 23, 2024.                           applicable age is age 73.                             for purposes of determining whether
+                                                        Hearings will be made accessible to                   *      *    *     *     *                             this section is satisfied.
+                                                     people with disabilities. To request                     ■ Par. 3. Section 1.401(a)(9)–4, as                      (iv) Corrective distributions that give
+                                                     special assistance during the hearing,                   revised in a final rule published                     rise to reduction or waiver of section
+                                                     please contact the Publications and                      elsewhere in this issue of the Federal                4974 excise tax. A corrective
+                                                     Regulations Branch of the Office of                      Register, effective September 17, 2024,               distribution described in section 4974(e)
+                                                     Associate Chief Counsel (Procedure and                   is amended by adding a sentence to the                or § 54.4974–1(g)(3)(iii) is not taken into
+                                                     Administration) by sending an email to                   end of paragraph (e)(8) to read as                    account for purposes of determining
+                                                     publichearings@irs.gov (preferred) or by                 follows:                                              whether this section is satisfied for the
+                                                     telephone at (202) 317–6901 (not a toll-                                                                       calendar year in which the distribution
+                                                     free number) by September 20, 2024.
+                                                                                                              § 1.401(a)(9)–4 Determination of the                  is made. Thus, for the year in which the
+                                                                                                              designated beneficiary.                               corrective distribution is made, the
+                                                     Statement of Availability of IRS                         *      *    *      *    *                             required minimum distribution for that
+                                                     Documents                                                   (e) * * *                                          year must be made in addition to the
+                                                                                                                 (8) * * * However, if the surviving                corrective distribution.
+                                                        IRS Revenue Procedures, Revenue                       spouse dies after benefits are considered                (3) * * *
+                                                     Rulings notices, and other guidance                      to have commenced under § 1.401(a)(9)–                   (ii) Rules relating to election—(A)
+                                                     cited in this document are published in                  3(e)(3), then the beneficiary of the                  Employee dies before required
+                                                     the Internal Revenue Bulletin (or                        spouse is not an eligible designated                  beginning date. If the employee dies
+                                                     Cumulative Bulletin) and are available                   beneficiary.                                          before the employee’s required
+                                                     from the Superintendent of Documents,                                                                          beginning date, § 1.401(a)(9)–3(c)(4)
+                                                     U.S. Government Publishing Office,                       *      *    *      *    *
+                                                                                                              ■ Par. 4. Section 1.401(a)(9)–5, as                   applies to the designated beneficiary
+                                                     Washington, DC 20402, or by visiting                                                                           (under which life expectancy payments
+                                                     the IRS website at http://www.irs.gov.                   revised in a final rule published
+                                                                                                              elsewhere in this issue of the Federal                will be made to the employee’s
+                                                     Drafting Information                                     Register, effective September 17, 2024,               designated beneficiary), and the
+                                                                                                              is amended by:                                        designated beneficiary is the employee’s
+                                                       The principal authors of these                         ■ a. Revising paragraph (a)(5)(iv)(A);                surviving spouse who is eligible to make
+                                                     proposed regulations are Jessica S.                      ■ b. Revising paragraph (a)(5)(v); and                the election described in paragraph
+                                                     Weinberger and Brandon M. Ford, of the                   ■ c. Adding paragraphs (g)(2)(iii) and                (g)(3)(i) of this section, then the spouse
+                                                     Office of the Associate Chief Counsel                    (iv), and (g)(3)(ii).                                 is treated as having made that election.
+                                                     (Employee Benefits, Exempt                                  The revision and additions read as                    (B) Employee dies on or after required
+                                                     Organizations, and Employment Taxes).                    follows:                                              beginning date. If the employee dies on
+                                                     However, other personnel from the                                                                              or after the employee’s required
+                                                     Treasury Department and the IRS                          § 1.401(a)(9)–5 Required minimum                      beginning date, the spouse is not
+                                                     participated in the development of the                   distributions from defined contribution               automatically treated as having made
+                                                     proposed regulations.                                    plans.                                                the election described in paragraph
+                                                                                                                 (a) * * *                                          (g)(3)(i) of this section. However, that
+                                                     List of Subjects in 26 CFR Part 1                           (5) * * *                                          election may be a default election under
+                                                       Income taxes, Reporting and                               (iv) * * *                                         the terms of the plan.
+                                                                                                                 (A) Adding the fair market value of                   (C) Use of Uniform Lifetime Table. If
+                                                     recordkeeping requirements.
+                                                                                                              the contract (determined in accordance                the election described in paragraph
+                                                     Proposed Amendments to the                               with paragraph (a)(5)(v) of this section)             (g)(3)(i) of this section applies with
+                                                     Regulations                                              to the remaining account balance                      respect to a surviving spouse, then the
+                                                                                                              determined under paragraph (b) of this                applicable denominator for each
+                                                       Accordingly, the Treasury Department                   section; and
+                                                     and the IRS propose to amend 26 CFR                                                                            distribution calendar year beginning
+                                                     part 1 as follows:                                       *       *     *     *    *                            with the calendar year following the
+                                                                                                                 (v) Rules of operation for aggregation             year of the employee’s death and up to
+                                                     PART 1—INCOME TAXES                                      option. For purposes of applying the                  and including the calendar year that
+                                                                                                              optional aggregation rule described in                includes the surviving spouse’s date of
+                                                     ■ Paragraph 1. The authority citation                    paragraph (a)(5)(iv) of this section, the             death is determined using the Uniform
+                                                     for part 1 continues to read, in part, as                fair market value of the annuity contract             Lifetime Table in § 1.401(a)(9)–9(c) for
+                                                     follows:                                                 is determined as of December 31 of the                the surviving spouse’s age as of the
+                                                                                                              calendar year preceding the distribution              surviving spouse’s birthday in the
+                                                         Authority: 26 U.S.C. 7805 * * *
+                                                                                                              calendar year. Beginning with the                     distribution calendar year. However, if
+                                                     *      *     *       *       *                           determination used for the 2026                       the employee died on or after the
+                                                     ■ Par. 2. Section 1.401(a)(9)–2, as                      distribution calendar year, the                       required beginning date, then the
+                                                     revised in a final rule published                        applicable method set forth in § 1.408A–              applicable denominator for a
+                                                     elsewhere in this issue of the Federal                   4, Q&A–14(b)(2) must be used for this                 distribution calendar year is the greater
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+
+
+
+
+                                                     Register, effective September 17, 2024,                  purpose.                                              of the applicable denominator
+                                                     is amended by adding paragraph                           *       *     *     *    *                            determined under the preceding
+                                                     (b)(2)(v) to read as follows:                               (g) * * *                                          sentence and the employee’s remaining
+                                                                                                                 (2) * * *                                          life expectancy.
+                                                     § 1.401(a)(9)–2 Distributions commencing
+                                                     during an employee’s lifetime.
+                                                                                                                 (iii) Distributions from designated                   (D) Distribution after spouse’s death.
+                                                                                                              Roth accounts. For distribution calendar              If the election described in paragraph
+                                                     *       *    *       *       *                           years up to and including the calendar                (g)(3)(i) of this section applies with
+                                                         (b) * * *                                            year that includes the employee’s date                respect to an employee who dies on or
+                                                         (2) * * *                                            of death, distributions from a designated             after the required beginning date (or
+
+
+                                                VerDate Sep<11>2014   16:39 Jul 18, 2024   Jkt 262001   PO 00000   Frm 00015   Fmt 4702   Sfmt 4702   E:\FR\FM\19JYP1.SGM   19JYP1
+                                                                                Federal Register / Vol. 89, No. 139 / Friday, July 19, 2024 / Proposed Rules                                                       58651
+
+                                                     whose surviving spouse dies after                           (1) A decree of divorce or separate                           TABLE 2 TO PARAGRAPH (c)
+                                                     distributions are considered to have                     maintenance or a written instrument
+                                                     begun to the spouse as determined                        incident to such a decree;                                  Age of employee                     Applicable
+                                                     under § 1.401(a)(9)–3(e)(3)), then—                         (2) A written separation agreement; or                                                      denominator
+                                                        (1) For calendar years following the                     (3) A decree (not described in
+                                                                                                                                                                     10 ..................................             88.2
+                                                     calendar year that includes the                          paragraph (q)(3)(vii)(B)(1) of this                    11 ..................................             87.2
+                                                     surviving spouse’s date of death, the                    section) requiring an individual to make               12 ..................................             86.2
+                                                     applicable denominator used for                          payments for the support or                            13 ..................................             85.2
+                                                     determining the required minimum                         maintenance of the individual’s former                 14 ..................................             84.2
+                                                     distribution for each distribution                       spouse.                                                15 ..................................             83.2
+                                                     calendar year is determined under the                    *      *    *     *      *                             16 ..................................             82.2
+                                                                                                                                                                     17 ..................................             81.2
+                                                     rules of paragraph (d)(3)(iv) of this                    ■ Par. 6. Section 1.401(a)(9)–8, as
+                                                                                                                                                                     18 ..................................             80.2
+                                                     section, and                                             revised in a final rule published                      19 ..................................             79.2
+                                                        (2) A final distribution of the                       elsewhere in this issue of the Federal                 20 ..................................             78.2
+                                                     employee’s entire interest must be made                  Register, effective September 17, 2024,                21 ..................................             77.2
+                                                     by the end of the calendar year that                     is amended by:                                         22 ..................................             76.2
+                                                     includes the tenth anniversary of the                    ■ a. Revising the second sentence of                   23 ..................................             75.2
+                                                                                                              paragraph (a)(1)(iii)(B);                              24 ..................................             74.2
+                                                     surviving spouse’s death.
+                                                                                                                                                                     25 ..................................             73.3
+                                                        (E) Applicability dates for spousal                   ■ b. Revising the first sentence of
+                                                                                                                                                                     26 ..................................             72.3
+                                                     election. The spousal election described                 paragraph (a)(1)(iii)(C); and                          27 ..................................             71.3
+                                                     in paragraph (g)(3)(i) of this section                   ■ c. Adding paragraph (a)(1)(iii)(D).                  28 ..................................             70.3
+                                                     applies only if the first year for which                    The revisions and addition read as                  29 ..................................             69.3
+                                                     annual required minimum distributions                    follows:                                               30 ..................................             68.3
+                                                                                                                                                                     31 ..................................             67.3
+                                                     to the surviving spouse must be made is                  § 1.401(a)(9)–8     Special rules.                     32 ..................................             66.3
+                                                     2024 or later. Thus, the election                                                                               33 ..................................             65.3
+                                                     described in paragraph (g)(3)(ii)(A) of                     (a) * * *
+                                                                                                                 (1) * * *                                           34 ..................................             64.3
+                                                     this section (relating to employees who                                                                         35 ..................................             63.3
+                                                     die before the required beginning date)                     (iii) * * *                                         36 ..................................             62.3
+                                                     applies only if the calendar year in                        (B) * * * Except as provided in                     37 ..................................             61.3
+                                                     which life expectancy payments must                      paragraph (a)(1)(iii)(D) of this section,              38 ..................................             60.3
+                                                     begin under § 1.401(a)(9)–3(d) is 2024 or                the preceding sentence applies only if                 39 ..................................             59.4
+                                                     later. Similarly, the election described                 the separate interests are held by                     40 ..................................             58.4
+                                                                                                              separate see-through trusts (in which                  41 ..................................             57.4
+                                                     in paragraph (g)(3)(ii)(B) of this section                                                                      42 ..................................             56.4
+                                                     (relating to an employee who dies on or                  case the rules of §§ 1.401(a)(9)–4(f) and
+                                                                                                              1.401(a)(9)–5 will apply separately to                 43 ..................................             55.4
+                                                     after the required beginning date)                                                                              44 ..................................             54.4
+                                                     applies only if the first year for which                 each separate trust).                                  45 ..................................             53.4
+                                                     the surviving spouse must take annual                       (C) * * * For purposes of paragraph                 46 ..................................             52.4
+                                                     required minimum distributions under                     (a)(1)(iii)(B) of this section, a trust is             47 ..................................             51.5
+                                                     paragraph (d) of this section is 2024 or                 immediately divided upon the death of                  48 ..................................             50.5
+                                                     later (that is, if the employee died in                  the employee only if, as of the date of                49 ..................................             49.5
+                                                     2023 or later).                                          death, the trust is terminated and there               50 ..................................             48.5
+                                                                                                              is no discretion as to the extent to which             51 ..................................             47.5
+                                                     ■ Par. 5. Section 1.401(a)(9)–6, as                                                                             52 ..................................             46.5
+                                                                                                              the separate trusts (or the beneficiaries
+                                                     revised in a final rule published                        described in paragraph (a)(1)(iii)(D) of               53 ..................................             45.6
+                                                     elsewhere in this issue of the Federal                   this section) will be entitled to receive
+                                                                                                                                                                     54 ..................................             44.6
+                                                     Register, effective September 17, 2024,                                                                         55 ..................................             43.6
+                                                                                                              post-death distributions attributable to               56 ..................................             42.6
+                                                     is amended by adding paragraph                           the employee’s interest in the plan.
+                                                     (q)(3)(vii)(B) to read as follows:                                                                              57 ..................................             41.6
+                                                                                                              * * *                                                  58 ..................................             40.7
+                                                     § 1.401(a)(9)–6 Required minimum                            (D) Outright distribution to trust                  59 ..................................             39.7
+                                                     distributions for defined benefit plans and              beneficiary. The separate interests of the             60 ..................................             38.7
+                                                     annuity contracts.                                       beneficiaries in a see-through trust will              61 ..................................             37.7
+                                                                                                              not fail to be eligible for the exception              62 ..................................             36.8
+                                                     *     *     *     *     *
+                                                                                                              under paragraph (a)(1)(iii)(B) of this                 63 ..................................             35.8
+                                                       (q) * * *                                                                                                     64 ..................................             34.9
+                                                                                                              section merely because, upon                           65 ..................................             33.9
+                                                       (3) * * *
+                                                                                                              termination of the trust, a beneficiary’s              66 ..................................             33.0
+                                                       (vii) * * *                                            separate interest in the trust is to be                67 ..................................             32.0
+                                                       (B) QDRO not required for certain                      held directly by that beneficiary rather               68 ..................................             31.1
+                                                     plans. If the rules of section 414(p) and                than being held by a separate see-                     69 ..................................             30.1
+                                                     section 206(d)(3) of ERISA do not apply                  through trust.                                         70 ..................................             29.2
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+
+
+
+
+                                                     to a plan (for example, a governmental                   *       *    *      *     *                            71 ..................................             28.3
+                                                     plan described in section 414(d) of the                                                                         72 ..................................             27.4
+                                                                                                              ■ Par. 7. In § 1.401(a)(9)–9, revise and
+                                                     Code), then a divorce or separation                                                                             73 ..................................             26.5
+                                                                                                              republish the table set forth in                       74 ..................................             25.5
+                                                     instrument that satisfies the                            paragraph (c) to read as follows:                      75 ..................................             24.6
+                                                     requirements of paragraph (q)(3)(vii)(C)                                                                        76 ..................................             23.7
+                                                     of this section may be used in lieu of a                 § 1.401(a)(9)–9 Life expectancy and                    77 ..................................             22.9
+                                                     qualified domestic relations order. For                  Uniform Lifetime tables.                               78 ..................................             22.0
+                                                     this purpose, a divorce or separation                    *        *    *       *       *                        79 ..................................             21.1
+                                                     instrument is—                                                (c) * * *                                         80 ..................................             20.2
+
+
+
+                                                VerDate Sep<11>2014   16:39 Jul 18, 2024   Jkt 262001   PO 00000    Frm 00016   Fmt 4702   Sfmt 4702   E:\FR\FM\19JYP1.SGM    19JYP1
+                                                     58652                               Federal Register / Vol. 89, No. 139 / Friday, July 19, 2024 / Proposed Rules
+
+                                                            TABLE 2 TO PARAGRAPH (c)—                                 distribution for purposes of this                    in which B reaches age 73) is $3,773.58
+                                                                     Continued                                        paragraph (f).                                       ($100,000.00/26.5). For 2032 (the year in
+                                                                                                                      *       *    *    *     *                            which B reaches age 74), the adjusted
+                                                          Age of employee                         Applicable             (j) * * *                                         account balance is calculated by
+                                                                                                 denominator             (4) * * *                                         reducing the $100,000.00 account
+                                                                                                                         (vii) Example. (A) Facts. Employee A              balance by the excess of the
+                                                     81 ..................................                     19.4
+                                                     82 ..................................                     18.5   is a participant in Plan X, sponsored by             hypothetical required minimum
+                                                     83 ..................................                     17.7   Employer M. A, who was born in 1957,                 distribution for the first applicable year
+                                                     84 ..................................                     16.8   died in 2024 (the calendar year A would              over the actual distributions made to the
+                                                     85 ..................................                     16.0   have reached age 67 and accordingly                  surviving spouse in that calendar year,
+                                                     86 ..................................                     15.2   before A’s required beginning date),                 which is $2,773.58
+                                                     87 ..................................                     14.4   having named A’s surviving spouse, B,                ($3,773.58¥$1,000.00). In this case, for
+                                                     88 ..................................                     13.7   who was born in 1958, as the sole                    the second determination year, the
+                                                     89 ..................................                     12.9   beneficiary. The applicable age for both             adjusted account balance is $97,226.42
+                                                     90 ..................................                     12.2
+                                                     91 ..................................                     11.5
+                                                                                                                      A and B is 73. In accordance with the                ($100,000.00¥$2,773.58) and the
+                                                     92 ..................................                     10.8   terms of Plan X, B is subject to the 10-             hypothetical required minimum
+                                                     93 ..................................                     10.1   year rule. B takes a $1,000 distribution             distribution for 2032 is $3,812.80
+                                                     94 ..................................                      9.5   in 2031 (the calendar year in which B                ($97,226.42/25.5). For 2033 (the year in
+                                                     95 ..................................                      8.9   reaches age 73). B takes no further                  which B reaches age 75), the adjusted
+                                                     96 ..................................                      8.4   distributions until taking a distribution            account balance is calculated by
+                                                     97 ..................................                      7.8   of A’s remaining interest in Plan X in               reducing the $100,000.00 account
+                                                     98 ..................................                      7.3   2033 (the ninth calendar year following
+                                                     99 ..................................                      6.8
+                                                                                                                                                                           balance by the excess of the sum of the
+                                                                                                                      the year of A’s death, when B is age 75              hypothetical required minimum
+                                                     100 ................................                       6.4
+                                                     101 ................................                       6.0
+                                                                                                                      and A would have reached age 76). The                distributions for determination years
+                                                     102 ................................                       5.6   account balance as of December 31,                   preceding 2033 of $7,586.38 ($3,773.58
+                                                     103 ................................                       5.2   2032, was $100,000, and the                          + $3,812.80) over the actual
+                                                     104 ................................                       4.9   distribution of the remaining interest to            distributions made to the surviving
+                                                     105 ................................                       4.6   B equals $103,000. B would like to roll              spouse during those calendar years
+                                                     106 ................................                       4.3   over the distribution to B’s own IRA to              ($1,000.00), which is $6,586.38
+                                                     107 ................................                       4.1   the extent the distribution does not
+                                                     108 ................................                       3.9
+                                                                                                                                                                           ($7,586.38¥$1,000.00). Thus, the
+                                                                                                                      constitute a required minimum                        adjusted account balance for 2033 is
+                                                     109 ................................                       3.7   distribution.
+                                                     110 ................................                       3.5                                                        $93,413.62 ($100,000.00¥$6,586.38)
+                                                     111 ................................                       3.4
+                                                                                                                         (B) Catch-up of required minimum                  and the hypothetical required minimum
+                                                     112 ................................                       3.3   distributions required. Because the                  distribution for 2033 is $3,797.30
+                                                     113 ................................                       3.1   distribution is made in a calendar year              ($93,413.62/24.6). The portion of the
+                                                     114 ................................                       3.0   after B attained the applicable age and              $103,000 distribution of the employee’s
+                                                     115 ................................                       2.9   B intends to roll over the distribution to           remaining interest that is treated as a
+                                                     116 ................................                       2.8   B’s own IRA, this paragraph (j)(4)                   required minimum distribution, and
+                                                     117 ................................                       2.7   applies to determine the portion of the
+                                                     118 ................................                       2.5                                                        thus not an eligible rollover
+                                                                                                                      distribution that is treated as a required           distribution, is the excess of the sum of
+                                                     119 ................................                       2.3   minimum distribution. The first
+                                                     120 + ............................                         2.0                                                        the hypothetical required minimum
+                                                                                                                      applicable year (determined in                       distributions for each determination
+                                                                                                                      accordance with paragraph (j)(4)(iv) of              year in the catch-up period, which is
+                                                     *        *         *        *           *
+                                                     ■ Par. 8. Section 1.402(c)–2, as revised
+                                                                                                                      this section) is 2031 (the calendar year             $11,383.68 ($3,773.58 + $3,812.80 +
+                                                     in a final rule published elsewhere in                           in which B reached age 73 and the
+                                                                                                                                                                           $3,797.30), over the actual distributions
+                                                     this issue of the Federal Register,                              seventh year after the year of A’s death).
+                                                                                                                                                                           made during the calendar years
+                                                     effective September 17, 2024, is                                 Pursuant to paragraph (j)(4)(ii) of this
+                                                                                                                                                                           preceding 2033 ($1,000.00), which is
+                                                     amended by:                                                      section, the portion of the $103,000
+                                                                                                                                                                           $10,383.68 ($11,383.68¥$1,000.00).
+                                                     ■ a. In the first sentence of paragraph
+                                                                                                                      distributed in 2033 that is not an
+                                                                                                                                                                           Accordingly, the portion of the $103,000
+                                                     (f)(1), removing ‘‘paragraphs (f)(2) and                         eligible rollover distribution because it
+                                                                                                                                                                           distribution that is treated as a required
+                                                     (3)’’ and adding in its place ‘‘paragraphs                       is treated as a required minimum
+                                                                                                                                                                           minimum distribution is $10,383.68.
+                                                     (f)(2) through (4)’’;                                            distribution under section 401(a)(9), is
+                                                                                                                      the excess, if any, of the sum of the                   (D) Calculation of eligible rollover
+                                                     ■ b. Redesignating paragraph (f)(3) as
+                                                                                                                      hypothetical required minimum                        distribution. Pursuant to paragraph
+                                                     (f)(4) and adding new paragraph (f)(3);
+                                                                                                                      distributions, determined in accordance              (j)(4)(vi) of this section, the plan
+                                                     and
+                                                     ■ c. Adding paragraph (j)(4)(vii).                               with paragraph (j)(4)(iii) of this section           administrator may assume that, for
+                                                        The addition and revision read as                             for each calendar year beginning with                purposes of section 402(f)(2)(A), a
+                                                     follows:                                                         the first applicable year and ending in              portion of the $103,000 distribution
+                                                                                                                      the year of distribution over the sum of             equal to $10,383.68 is not an eligible
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+
+
+
+
+                                                     § 1.402(c)–2           Eligible rollover distributions.          the actual distributions made in each                rollover distribution. However, B could
+                                                     *     *       *    *      *                                      calendar year beginning with the first               choose to roll over the entire $103,000
+                                                       (f) * * *                                                      applicable year and ending in the year               distribution to an IRA, provided the IRA
+                                                       (3) Distributions from designated Roth                         before the year of the distribution.                 is established as a beneficiary IRA, and
+                                                     accounts. If a distribution is not taken                            (C) Calculation of hypothetical                   not as B’s own IRA. In that case, in
+                                                     into account for purposes of section                             required minimum distribution.                       accordance with § 1.408–8(d)(2)(i), the
+                                                     401(a)(9) under the rule in § 1.401(a)(9)–                       Pursuant to paragraph (j)(4)(iii) of this            IRA would be subject to the 10-year rule
+                                                     5(g)(2)(iii), then it is not treated as a                        section, the hypothetical required                   that applied to the spouse under the
+                                                     distribution that is a required minimum                          minimum distribution for 2031 (the year              plan (so that a distribution of the
+
+
+                                                VerDate Sep<11>2014         16:39 Jul 18, 2024    Jkt 262001   PO 00000   Frm 00017   Fmt 4702   Sfmt 4702   E:\FR\FM\19JYP1.SGM   19JYP1
+                                                                                Federal Register / Vol. 89, No. 139 / Friday, July 19, 2024 / Proposed Rules                                           58653
+
+                                                     employee’s entire interest would be                      ADDRESSES: Written comments may be                       Section 721 authorizes the president
+                                                     required by 2034).                                       submitted through one of two methods:                 or his designee (i.e., CFIUS) to review
+                                                     *     *     *     *     *                                   • Electronic Submission: Comments                  certain real estate transactions by
+                                                     ■ Par. 9. Section 1.408–8, as revised in                 may be submitted electronically through               foreign persons where the real estate at
+                                                     a final rule published elsewhere in this                 the Federal government eRulemaking                    issue is located in the United States and
+                                                     issue of the Federal Register, effective                 portal at https://www.regulations.gov.                (a) is located within, or will function as
+                                                     September 17, 2024, is amended as                           Electronic submission of comments                  part of, an air or maritime port; or (b)
+                                                     follows:                                                 allows the commenter maximum time to                  is in close proximity to a United States
+                                                     ■ a. Redesignate paragraph (g)(2)(vii) as                prepare and submit a comment, ensures                 military installation or another facility
+                                                     paragraph (g)(2)(viii); and                              timely receipt, and enables the Treasury              or property of the United States
+                                                     ■ b. Add new paragraph (g)(2)(vii).                      Department to make the comments                       Government that is sensitive for reasons
+                                                        The addition reads as follows:                        available to the public.                              relating to national security; could
+                                                                                                                 • Mail: Send to U.S. Department of                 reasonably provide the foreign person
+                                                     § 1.408–8 Distribution requirements for
+                                                                                                              the Treasury, Attention: Meena R.                     the ability to collect intelligence on
+                                                     individual retirement plans.                                                                                   activities being conducted at such an
+                                                                                                              Sharma, Director, Office of Investment
+                                                     *      *     *    *      *                               Security Policy and International                     installation, facility, or property; or
+                                                        (g) * * *                                                                                                   could otherwise expose national
+                                                                                                              Relations, 1500 Pennsylvania Avenue
+                                                        (2) * * *                                                                                                   security activities at such an
+                                                                                                              NW, Washington, DC 20220.
+                                                        (vii) Corrective distributions that give                                                                    installation, facility, or property to the
+                                                                                                                 The Department of the Treasury                     risk of foreign surveillance.
+                                                     rise to a reduction or waiver of the
+                                                                                                              encourages comments to be submitted                      The current regulations at part 802
+                                                     section 4974 excise tax, as described in
+                                                                                                              via https://www.regulations.gov. Please               identify a subset of military installations
+                                                     § 1.401(a)(9)–5(g)(2)(iv).
+                                                                                                              submit comments only and include your                 around which certain real estate
+                                                     *      *     *    *      *                               name and company name (if any) and                    transactions are covered under CFIUS’s
+                                                     Douglas W. O’Donnell,                                    cite ‘‘Amendments to the Definition of                jurisdiction. The specific military
+                                                     Deputy Commissioner.                                     Military Installation and the List of                 installations are listed in appendix A by
+                                                     [FR Doc. 2024–14543 Filed 7–18–24; 8:45 am]
+                                                                                                              Military Installations in Regulations                 name and location (or township/range),
+                                                                                                              Pertaining to Certain Transactions by                 and section 802.227 sets forth the
+                                                     BILLING CODE 4830–01–P
+                                                                                                              Foreign Persons Involving Real Estate in              category descriptions of the military
+                                                                                                              the United States’’ in all                            installations identified in appendix A.
+                                                     DEPARTMENT OF THE TREASURY                               correspondence. All comments                          The locations listed in appendix A are
+                                                                                                              submitted, including attachments and                  intended to aid in the identification of
+                                                     Office of Investment Security                            other supporting material, in response                the relevant installations only and do
+                                                                                                              to this proposed rule will be made                    not represent specific boundaries of the
+                                                     31 CFR Part 802                                          public, including any personally                      installations for purposes of
+                                                                                                              identifiable or confidential business                 determining whether a transaction is a
+                                                     [Docket ID TREAS–DO–2024–0010]                           information that is included in a                     covered real estate transaction.
+                                                     RIN 1505–AC88                                            comment. Therefore, commenters                           The preamble to the final rule
+                                                                                                              should submit only information that                   establishing part 802 (see 85 FR 3158)
+                                                     Definition of Military Installation and                  they wish to make publicly available.                 noted that the military installations
+                                                     the List of Military Installations in                    Commenters who wish to remain                         listed in the appendix were identified
+                                                     Regulations Pertaining to Certain                        anonymous should not include                          by the U.S. Department of Defense
+                                                     Transactions by Foreign Persons                          identifying information in their                      (Department of Defense) based upon an
+                                                     Involving Real Estate in the United                      comments.                                             evaluation of national security
+                                                     States                                                                                                         considerations, and that the Department
+                                                                                                              FOR FURTHER INFORMATION CONTACT:
+                                                                                                                                                                    of Defense will continue on an ongoing
+                                                     AGENCY: Office of Investment Security,                   Meena R. Sharma, Director, Office of
+                                                                                                                                                                    basis to assess its military installations
+                                                     Department of the Treasury.                              Investment Security Policy and
+                                                                                                                                                                    and the geographic scope established
+                                                     ACTION: Proposed rule.                                   International Relations, at U.S.
+                                                                                                                                                                    under the rules to ensure appropriate
+                                                                                                              Department of the Treasury, 1500
+                                                                                                                                                                    application in light of national security
+                                                     SUMMARY: This proposed rule would                        Pennsylvania Avenue NW, Washington,
+                                                                                                                                                                    considerations. In 2023, as a result of
+                                                     amend the regulations that implement                     DC 20220; telephone: (202) 622–3425;                  the assessment of military installations
+                                                     the provisions relating to real estate                   email: CFIUS.Regulations@treasury.gov.                by the Department of Defense at that
+                                                     transactions in section 721 of the                       SUPPLEMENTARY INFORMATION:                            time, amendments made to the
+                                                     Defense Production Act of 1950, as                                                                             regulations added eight military
+                                                     amended. Specifically, the proposed                      I. Background
+                                                                                                                                                                    installations to appendix A and updated
+                                                     rule would amend the regulations by                         The regulations at part 802 to title 31            the names of five military installations
+                                                     adding, moving, and removing certain                     of the Code of Federal Regulations (part              (see 88 FR 57348, published August 23,
+                                                     military installations on the appendix at                802) implement the provisions in                      2023). Since then, the Department of
+                                                     parts 1 and 2, and making                                section 721 of the Defense Production                 Defense has completed a comprehensive
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+
+
+
+
+                                                     corresponding revisions to the                           Act of 1950, as amended (Section 721)                 assessment of its military installations
+                                                     definition of the term ‘‘military                        and establish the process and                         through coordination across all military
+                                                     installation.’’ The proposed rule would                  procedures of the Committee on Foreign                services, considering factors such as the
+                                                     also make technical amendments to                        Investment in the United States (CFIUS                operations, assets, missions, and
+                                                     update the name or location information                  or the Committee) with respect to                     training at each installation and
+                                                     for certain military installations already               reviewing transactions involving the                  appropriateness for coverage under
+                                                     listed on the appendix.                                  purchase or lease by, or concession to,               Section 721. While the Department of
+                                                     DATES: Written comments must be                          a foreign person of certain real estate in            Defense continuously evaluates its
+                                                     received by August 19, 2024.                             the United States.                                    military installations to ensure
+
+
+                                                VerDate Sep<11>2014   16:39 Jul 18, 2024   Jkt 262001   PO 00000   Frm 00018   Fmt 4702   Sfmt 4702   E:\FR\FM\19JYP1.SGM   19JYP1

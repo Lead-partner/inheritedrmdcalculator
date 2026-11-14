@@ -53,7 +53,11 @@ export async function launchChrome() {
     };
     return {command,evaluate,until,errors,
       async navigate(url, ready=true){await command('Page.navigate',{url});await until("document.readyState === 'complete'");if(ready)await until("!!document.querySelector('#flow button')");await evaluate('document.fonts.ready.then(()=>true)');},
-      async screenshot(file){const {data}=await command('Page.captureScreenshot',{format:'png',captureBeyondViewport:false});await writeFile(file,Buffer.from(data,'base64'));},
+      async screenshot(file,fullPage=false){
+        const clip=fullPage?(await command('Page.getLayoutMetrics')).cssContentSize:null;
+        const {data}=await command('Page.captureScreenshot',{format:'png',captureBeyondViewport:fullPage,...(clip?{clip:{...clip,scale:1}}:{})});
+        await writeFile(file,Buffer.from(data,'base64'));
+      },
       async close(){listeners.delete(log);await send('Target.closeTarget',{targetId});}
     };
   }

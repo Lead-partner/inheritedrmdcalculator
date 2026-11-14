@@ -88,6 +88,4 @@ document.addEventListener('click',async e=>{
 });
 document.addEventListener('keydown',e=>{if(done||e.altKey||e.ctrlKey||e.metaKey||e.target.closest('input,textarea'))return;const buttons=flow.querySelectorAll('.choice');if(/^[1-4]$/.test(e.key)&&buttons[+e.key-1]){e.preventDefault();buttons[+e.key-1].click();}else if(e.key==='Enter' && e.target.id==='question-title'){e.preventDefault();(flow.querySelector('.choice[aria-pressed=true]')||buttons[0]||flow.querySelector('input'))?.focus();}});
 window.addEventListener('beforeprint',()=>document.querySelector('#schedule')?.setAttribute('open',''));
-for(const id of ['how','questions','embed'])document.querySelector(`a[href="/#${id}"]`)?.addEventListener('click',()=>{const target=document.getElementById(id);if(target?.tagName==='DETAILS')target.open=true;});
-if(location.hash){const target=document.querySelector(['#how','#embed'].includes(location.hash)?location.hash:'#questions');if(target?.tagName==='DETAILS')target.open=true;}
 if(a.r==='trust'||(a.od&&+a.od<2020)||missing()===-1)finish(false);else{index=Math.max(0,missing());renderFlow();}

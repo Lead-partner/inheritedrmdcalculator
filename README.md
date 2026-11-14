@@ -1,10 +1,10 @@
 # Inherited RMD Calculator
 
-A standalone, free static calculator for inherited IRA withdrawal rules at **inheritedrmdcalculator.com**. Vanilla JavaScript, no runtime dependencies, no advertising or affiliate links. The operator appears only on About and Contact (and in required publisher structured data).
+A standalone, free static calculator for inherited IRA withdrawal rules at **inheritedrmdcalculator.com**. Vanilla JavaScript, no runtime dependencies, no advertising or affiliate links. Articles identify Lead Partner AS as publisher and include primary-source references and the site disclaimer.
 
 ## Run locally
 
-Requires Node.js 24 or newer and a static HTTP server:
+Requires Node.js 24 or newer, Google Chrome at `/usr/bin/google-chrome` for browser tests, and a static HTTP server:
 
 ```sh
 npm test
@@ -14,7 +14,7 @@ python3 -m http.server 4173 --directory public
 
 Open http://localhost:4173/. `public/` is the deployable output. The build copies only explicitly selected source and static assets; `design-ref/`, `sources-ref/`, `qa-shots/`, scripts and tests never ship. The build checks that the combined gzipped JavaScript stays below 20 KB. No table refresh or network request happens during a build.
 
-Routes: `/`, `/about/`, `/contact/`, `/embed/`, `/404.html`. `vercel.json` supplies the output directory, URL conventions and security headers. No deployment is performed by the build. CI runs the dependency-free Node tests and the static build.
+Routes: `/`, `/guides/`, `/guides/inherited-ira-rules/`, `/guides/what-is-an-inherited-ira/`, `/how-we-calculate/`, `/embed-code/`, `/about/`, `/contact/`, `/embed/`, `/404.html`. `vercel.json` supplies the output directory, URL conventions and security headers. No deployment is performed by the build. CI runs the Node and Chrome tests and the static build; no npm dependencies are required.
 
 **Before launch:** set up and test the `hello@inheritedrmdcalculator.com` mailbox, which is displayed on Contact. Confirm the production domain and all security headers, especially the route-specific framing policy, on the chosen host. The local preview is a static server, not a Vercel deployment.
 
@@ -35,6 +35,14 @@ npm run sync-tables
 ```
 
 This fetches `rmd_single_life` and `rmd_uniform_lifetime` from the [open-source data repository](https://github.com/Lead-partner/retirement-limits-data). Missing tables, changed schemas, added/removed ages or changed values stop the refresh before writing. Verify changes against the IRS source and review the baseline manually. An identical dataset updates only the retrieval date. The refresh is never part of a build.
+
+## Guide content and evidence
+
+`src/guides.mjs` contains build-time article data, per-section prefilled links and source references. `scripts/pages.mjs` supplies the shared navigation, article metadata, breadcrumbs and supporting pages. Guides ship no application JavaScript; only the human embed page loads the small copy-snippet module. Add a guide to the data array to generate its page, index listing, related link and sitemap entry.
+
+Primary-source snapshots fetched with curl on 14 November 2026 are retained in `sources-ref/`. `checked-2026-11-14.json` records names, URLs, checked dates and fetch status; `article-evidence.json` maps guide `data-evidence` IDs to exact source quotes. Node tests validate those quotes against the saved files, article metadata, prefill state decoding, visible copy length and every sitemap destination. The obsolete IRS beneficiary URL returned 404; articles cite the successfully fetched canonical beneficiary page instead.
+
+The requested cluster contains two articles, so each links to its one available sibling and to the calculation method, embed instructions and guides index.
 
 ## URL state and privacy
 
@@ -59,7 +67,7 @@ The calendar download follows RFC 5545: all-day deadline, exclusive next-day end
 
 The approved reference supplies the paper/ink/navy/yellow/rust palette, Source Serif 4 (600), Public Sans (400/600), focus/error states and result-letter styling. Fonts are self-hosted with their SIL Open Font Licenses. The application has one question per step, keyboard number shortcuts, native Enter actions, heading focus on each transition, and inline validation. Mobile results replace the question flow; answer chips reopen a step.
 
-Browser QA uses `/usr/bin/google-chrome`. Screenshots and local audit reports belong in ignored `qa-shots/`. Check start, result, open schedule and conditional paths at widths 320, 390, 768 and 1280. Use a local browser automation installation for optional QA; it is not a site or test dependency. The 1200×630 OG PNG was rendered in headless Chrome from `scripts/og-template.html`; generated brand icons live under `static/`.
+Browser QA uses `/usr/bin/google-chrome`. Screenshots and local audit reports belong in ignored `qa-shots/`. Check start, result, open schedule and conditional paths at widths 320, 390, 768 and 1280. The built-in `scripts/chrome.mjs` uses Chrome DevTools Protocol and Node’s WebSocket client; no browser automation package is needed. `npm run qa` checks the six content routes at 320/390/768/1280, follows the mobile menu links, completes a guide-to-calculator flow, checks snippet copying and saves the requested `rmd-b2-*.png` screenshots under `/workspace/gold-ira/free-apps/qa/`. The QA report and Lighthouse JSON stay in ignored `qa-shots/`. The 1200×630 OG PNG was rendered in headless Chrome from `scripts/og-template.html`; generated brand icons live under `static/`.
 
 To re-render the OG image from this checkout:
 
@@ -67,7 +75,9 @@ To re-render the OG image from this checkout:
 google-chrome --headless=new --no-sandbox --hide-scrollbars --force-device-scale-factor=1 --window-size=1200,630 --virtual-time-budget=1500 --screenshot=static/og.png "file://$PWD/scripts/og-template.html"
 ```
 
-The embed page is noindex and is the only frameable route. The homepage includes the exact iframe attribution snippet; the embed footer links back with `target="_blank" rel="noopener"`.
+The embed page is noindex and is the only frameable route. The human `/embed-code/` page includes the exact iframe attribution snippet; the embed footer links back with `target="_blank" rel="noopener"`.
+
+Verified on 14 November 2026: 29 tests passed; all 24 page/width overflow checks passed; mobile navigation, result editing and embed copying passed. Lighthouse 12 mobile against the local static server scored home **99/100/100/100** and the rules article **100/100/100/100** (performance/accessibility/best practices/SEO). Combined JavaScript is 12.06 KB gzip against the existing 20 KB budget. These checks do not verify a production deployment.
 
 ## License
 

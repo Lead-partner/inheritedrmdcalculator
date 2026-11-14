@@ -1,0 +1,82 @@
+[
+  {
+    "file": "p590b.txt",
+    "name": "IRS Publication 590-B (2025)",
+    "url": "https://www.irs.gov/publications/p590b",
+    "checked": "2026-11-14",
+    "status": "fetched",
+    "error": ""
+  },
+  {
+    "file": "fr.txt",
+    "name": "Treasury T.D. 10001 (Federal Register via GPO)",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2024-07-19/html/2024-14542.htm",
+    "checked": "2026-11-14",
+    "status": "fetched",
+    "error": ""
+  },
+  {
+    "file": "benef.txt",
+    "name": "IRS Retirement topics — Beneficiary",
+    "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary",
+    "checked": "2026-11-14",
+    "status": "fetched",
+    "error": ""
+  },
+  {
+    "file": "inherited-ira-faq.txt",
+    "name": "IRS Retirement topics — Beneficiary: inherited IRA FAQs",
+    "url": "https://www.irs.gov/retirement-plans/retirement-topics-beneficiary",
+    "checked": "2026-11-14",
+    "status": "unavailable",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "file": "rmdfaq.txt",
+    "name": "IRS Retirement plan and IRA required minimum distributions FAQs",
+    "url": "https://www.irs.gov/retirement-plans/retirement-plan-and-ira-required-minimum-distributions-faqs",
+    "checked": "2026-11-14",
+    "status": "fetched",
+    "error": ""
+  },
+  {
+    "file": "i5329.txt",
+    "name": "IRS Instructions for Form 5329 (2025)",
+    "url": "https://www.irs.gov/instructions/i5329",
+    "checked": "2026-11-14",
+    "status": "fetched",
+    "error": ""
+  },
+  {
+    "file": "n2022-53.txt",
+    "name": "IRS Notice 2022-53",
+    "url": "https://www.irs.gov/pub/irs-drop/n-22-53.pdf",
+    "checked": "2026-11-14",
+    "status": "fetched",
+    "error": ""
+  },
+  {
+    "file": "n2023-54.txt",
+    "name": "IRS Notice 2023-54",
+    "url": "https://www.irs.gov/pub/irs-drop/n-23-54.pdf",
+    "checked": "2026-11-14",
+    "status": "fetched",
+    "error": ""
+  },
+  {
+    "file": "n2024-35.txt",
+    "name": "IRS Notice 2024-35",
+    "url": "https://www.irs.gov/pub/irs-drop/n-24-35.pdf",
+    "checked": "2026-11-14",
+    "status": "fetched",
+    "error": ""
+  },
+  {
+    "file": "proposed-1959.txt",
+    "name": "Treasury proposed regulations REG-103529-23 (1959 birth cohort assumption)",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2024-07-19/pdf/2024-14543.pdf",
+    "checked": "2026-11-14",
+    "status": "fetched",
+    "error": ""
+  }
+]
