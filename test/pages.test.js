@@ -10,7 +10,7 @@ const schema=html=>Array.from(html.matchAll(/<script type="application\/ld\+json
 
 test('every sitemap URL has built HTML, a checked date and real shared navigation',async()=>{
  const sitemap=await read('sitemap.xml');
- const urls=Array.from(sitemap.matchAll(/<url><loc>(.*?)<\/loc><lastmod>(.*?)<\/lastmod><\/url>/g));
+ const urls=Array.from(sitemap.matchAll(/<url><loc>(.*?)<\/loc><lastmod>(.*?)<\/lastmod>[\s\S]*?<\/url>/g));
  assert.equal(urls.length,6+guides.length);
  for(const [,url,lastmod] of urls) {
   const pathname=new URL(url).pathname,html=await read(pathname.slice(1)+'index.html');
@@ -39,7 +39,7 @@ for(const g of guides)test(`${g.slug}: article SEO, sources, prefill state and r
  assert.ok(title.toLowerCase().includes(keyword.toLowerCase()));
  assert.doesNotMatch(html,/<script(?! type="application\/ld\+json")/);
  assert.match(html,/<meta property="og:type" content="article">/);
- assert.match(html,/<meta property="og:image" content="https:\/\/inheritedrmdcalculator.com\/og.png">/);
+ assert.ok(html.includes(`<meta property="og:image" content="https://inheritedrmdcalculator.com/img/og/${g.slug}.png">`));
  const graph=schema(html),article=graph.find(x=>x['@type']==='Article'),crumbs=graph.find(x=>x['@type']==='BreadcrumbList');
  assert.ok(article&&crumbs);
  assert.equal(article.headline,g.h1);assert.equal(article.datePublished,'2026-11-14');assert.equal(article.dateModified,'2026-11-14');
@@ -61,7 +61,7 @@ for(const g of guides)test(`${g.slug}: article SEO, sources, prefill state and r
  assert.ok(html.includes('href="/how-we-calculate/"'));assert.ok(html.includes('href="/embed-code/"'));
  // Count visible article copy without collapsed long-tail answers.
  const articleHtml=html.match(/<article>([\s\S]*?)<\/article>/)[1];
- const visibleWords=articleHtml.replace(/<details[\s\S]*?<\/details>/g,'').replace(/<[^>]+>/g,' ').trim().split(/\s+/).length;
+ const visibleWords=articleHtml.replace(/<details[\s\S]*?<\/details>/g,'').replace(/<figure[\s\S]*?<\/figure>/g,'').replace(/<[^>]+>/g,' ').trim().split(/\s+/).length;
  assert.ok(visibleWords>=500&&visibleWords<=900,`${visibleWords} visible words`);
  const intro=html.match(/<h1>.*?<\/h1><p[^>]*>(.*?)<\/p>/)[1].replace(/<[^>]+>/g,' ').trim().split(/\s+/);
  assert.ok(intro.length<=60,`${intro.length} words in first paragraph`);
@@ -145,6 +145,6 @@ test('new guide prefills and contextual hub links stay aligned with the account 
  const hub=await read('guides/inherited-ira-rules/index.html');
  for(const heading of ['Who follows the 10-year rule?','Inherited Roth IRA rules']){
   const section=hub.slice(hub.indexOf(`<section><h2>${heading}</h2>`)).split('</section>')[0];
-  assert.equal((section.match(/<p/g)||[]).length,2,'brief hub section');
+  assert.equal((section.replace(/<figure[\s\S]*?<\/figure>/g,'').match(/<p/g)||[]).length,2,'brief hub section');
  }
 });

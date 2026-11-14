@@ -2,6 +2,7 @@ import {calculate,followups,rbdInfo,validYear,parseBalance} from './rules.js';
 import {encodeState,decodeState} from './state.js';
 import {makeCalendar} from './calendar.js';
 const today=new Date(),Y=today.getFullYear(),flow=document.querySelector('#flow'),panel=document.querySelector('#result'),tool=document.querySelector('#tool');
+const initialPreview=panel.innerHTML;
 let a=decodeState(location.search,today),index=0,editing=false,done=false,currentResult;
 const labels={r:'Who left you the account?',t:'What kind of account?',ob:'What year were they born?',od:'What year did they die?',b:'What year were you born?',early:'Were they born before July 1, 1949?',rbd:'',gap:'Is your birthday less than 10 years after theirs?',bal:`What was the account balance on December 31, ${Y-1}?`};
 const choices={r:[['parent','My parent'],['spouse','My spouse'],['other','Someone else','Sibling, friend, other relative'],['trust','A trust or estate inherited it']],t:[['ira','Traditional IRA'],['roth','Roth IRA'],['plan','401(k), 403(b) or similar workplace plan']],early:[['yes','Yes'],['no','No'],['unsure','Not sure']],rbd:[['yes','Yes'],['no','No'],['unsure','Not sure']],gap:[['yes','Yes'],['no','No'],['unsure','Not sure']]};
@@ -62,6 +63,7 @@ function amountHtml(req){
 }
 function heroes(req,deadline,emptyBy=null){return `<div class="heroes"><div><div class="lbl">${req.required?`Take out at least this much in ${Y}`:`Nothing required in ${Y}`}</div>${amountHtml(req)}</div><div class="due"><div class="lbl">${req.required?'Deadline':'Your timing'}</div><div class="date">${dateLabel(deadline)}</div>${emptyBy?`<p>Account must be empty by <b>Dec 31, ${emptyBy}</b></p>`:''}</div></div>`;}
 function renderResult(focus=false){
+ panel.setAttribute('aria-label','Your result');
  currentResult=calculate(a,{today});const r=currentResult;
  if(r.rule==='unsupported'){panel.innerHTML=`<section class="result"><div class="ov">Your result</div><h2 id="result-title" class="result-heading" tabindex="-1">Check with the custodian</h2><p class="why">${escape(r.why)}</p><p class="hint"><a href="https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary">IRS guidance for beneficiaries</a></p><div class="r-acts"><button class="btn sec" data-action="reset">Start over</button></div><div class="edit result-answer-edit"><div class="answers-title">Edit answers</div>${chipHtml()}</div></section>`;}
  else {
@@ -80,7 +82,7 @@ document.addEventListener('click',async e=>{
  else if(el.dataset.calendar!==undefined){const o=currentResult.options[+el.dataset.calendar];calendar(o.deadline,o.thisYear);}
  else if(el.dataset.action==='back'){index=Math.max(0,index-1);renderFlow(true);}
  else if(el.dataset.action==='skip')answer('bal',null);
- else if(el.dataset.action==='reset'){a={};index=0;editing=false;done=false;tool.classList.remove('complete');panel.innerHTML='<div class="result placeholder"><div class="ov">Your result</div><h2>Your rule. Your amount.<br>Your deadline.</h2><div class="amt" aria-hidden="true">$—</div><p>Start with who left you the account.<br>We’ll ask only what we need.</p></div>';save();renderFlow(true);}
+ else if(el.dataset.action==='reset'){a={};index=0;editing=false;done=false;tool.classList.remove('complete');panel.innerHTML=initialPreview;panel.setAttribute('aria-label','Example result preview');save();renderFlow(true);}
  else if(el.dataset.action==='print'){document.querySelector('#schedule')?.setAttribute('open','');window.print();}
  else if(el.dataset.action==='calendar')calendar(currentResult.deadline,currentResult.thisYear);
  else if(el.dataset.action==='empty-calendar')calendar(`${currentResult.emptyBy}-12-31`,{required:true,amount:null,divisor:1},true);

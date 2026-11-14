@@ -1,11 +1,14 @@
 import {mkdir,rm,cp,writeFile,readFile} from 'node:fs/promises';
 import {gzipSync} from 'node:zlib';
 import {home,page,origin,guideIndex,guidePage,supportingPage} from './pages.mjs';
+import {illustrations,svg,pageFigures} from './figures.mjs';
 import {guides,published} from '../src/guides.mjs';
 await rm('public',{recursive:true,force:true});
 await mkdir('public/assets',{recursive:true});
 await cp('static','public',{recursive:true});
 await cp('data','public/data',{recursive:true});
+await mkdir('public/img',{recursive:true});
+for(const id of Object.keys(illustrations))await writeFile(`public/img/${id}.svg`,svg(id));
 let size=0;
 for(const name of ['app','rules','state','calendar','embed-code']) {
  const code=await readFile(`src/${name}.js`,'utf8');
@@ -24,5 +27,5 @@ for(const [path,html] of pages) {
  await writeFile(`public/${path}/index.html`,html);
 }
 await writeFile('public/robots.txt',`User-agent: *\nAllow: /\nSitemap: ${origin}/sitemap.xml\n`);
-await writeFile('public/sitemap.xml',`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${['/','/about/','/contact/',...pages.map(([path])=>`/${path}/`)].map(p=>`<url><loc>${origin}${p}</loc><lastmod>${published}</lastmod></url>`).join('')}</urlset>\n`);
+await writeFile('public/sitemap.xml',`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">${['/','/about/','/contact/',...pages.map(([path])=>`/${path}/`)].map(p=>`<url><loc>${origin}${p}</loc><lastmod>${published}</lastmod>${(pageFigures[p]||[]).map(id=>`<image:image><image:loc>${origin}/img/${id==='embed-preview'?'embed-preview-960.webp':id+'.svg'}</image:loc></image:image>`).join('')}</url>`).join('')}</urlset>\n`);
 console.log(`Built public/ · total JavaScript: ${(size/1024).toFixed(2)} KB gzip (limit: 20 KB)`);

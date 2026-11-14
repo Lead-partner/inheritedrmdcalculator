@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "scripts": {"pretest": "node scripts/build.mjs", "test": "node --test", "build": "node scripts/build.mjs", "qa": "node scripts/qa.mjs", "sync-tables": "node scripts/sync-tables.mjs"},
+  "scripts": {
+    "pretest": "node scripts/build.mjs",
+    "test": "node --test",
+    "build": "node scripts/build.mjs",
+    "qa": "node scripts/qa.mjs",
+    "sync-tables": "node scripts/sync-tables.mjs",
+    "images": "node scripts/generate-images.mjs",
+    "qa:figures": "node scripts/check-figure-layout.mjs"
+  },
   "license": "MIT"
 }
