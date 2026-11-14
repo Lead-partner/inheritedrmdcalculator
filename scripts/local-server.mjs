@@ -5,7 +5,7 @@ import {pathToFileURL} from 'node:url';
 
 export async function startServer(port=0) {
  const root=resolve('public');
- const types={'.html':'text/html; charset=utf-8','.css':'text/css','.js':'text/javascript','.json':'application/json','.png':'image/png','.svg':'image/svg+xml','.woff2':'font/woff2','.xml':'application/xml'};
+ const types={'.html':'text/html; charset=utf-8','.css':'text/css','.js':'text/javascript','.json':'application/json','.png':'image/png','.svg':'image/svg+xml','.woff2':'font/woff2','.xml':'application/xml','.webp':'image/webp','.avif':'image/avif'};
  const server=createServer(async(req,res)=>{
   try {
    const pathname=decodeURIComponent(new URL(req.url,'http://localhost').pathname);

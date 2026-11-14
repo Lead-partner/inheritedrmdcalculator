@@ -34,3 +34,21 @@ test('article prefill links resume at the next unanswered question',async()=>{
   await page.close();
  } finally {await browser.close();await server.close();}
 });
+
+test('the initial question is visible immediately and reset restores the labelled example',async()=>{
+ const server=await startServer(),browser=await launchChrome();
+ try{
+  for(const width of [320,390,768,1280]){
+   const page=await browser.page(width,844);
+   await page.navigate(server.url+'/');
+   assert.ok(await page.evaluate("document.querySelector('#question-title').getBoundingClientRect().bottom<innerHeight"));
+   assert.equal(await page.evaluate("document.querySelector('.example-preview').checkVisibility()"),width>=900);
+   await page.evaluate("document.querySelector('[data-value=trust]').click()");
+   await page.until("!!document.querySelector('#result-title')");
+   await page.evaluate("document.querySelector('[data-action=reset]').click()");
+   await page.until("document.querySelector('#question-title')?.textContent==='Who left you the account?'");
+   assert.ok(await page.evaluate("document.querySelector('.example-preview').textContent.includes('IRS example')"));
+   assert.deepEqual(page.errors,[]);await page.close();
+  }
+ }finally{await browser.close();await server.close();}
+});
